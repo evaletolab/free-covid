@@ -32,8 +32,10 @@ Un test rapide est considéré si et seulement si il est accesssible simplement 
 
 ### 2. Une technologie neutre et anonyme pour suivre le virus pas la population
 
-Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est inexistant à 100% il limite notre liberté individuelle. 
+Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est inexistant à 100% il touche notre liberté individuelle. 
+La solution SwissCovid est bonne mais selon nous il fait fausse route avec deux éléments: un pilier incitatif et un traçage des cluster à la place des individus.
 
+TODO
 
 ### 3. Une incitation économique pour utiliser l'application
 
