@@ -1,36 +1,33 @@
-## Welcome to GitHub Pages
+## Une solution Anti-Lockdown
 
-You can use the [editor on GitHub](https://github.com/evaletolab/free-covid/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+La stratégie de depistage Suisse est inversée, et part du principe qu'il faut effectuer un test chez un partenaire autorisé dès les premiers symptomes. A genève il existe une solution de test rapide (m3-test.ch), il faut prendre rendez-vous, et sans symptome il faut payer une facture de XXX chf ([source](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La prosition du Professeur Michael Mina (Epidemiology, Harvard T.H) inverse le protocole. Il part du principe que le lockdown est une solution d'urgence, efficace pour donner un temps de planificiation, mais en dehors de l'urgence, ce ne peut être une solution. L'hypothèse de M. Mina est simple à mettre en oeuvre. A la place de tout fermer, il faut permettre les tests rapides, bon marchés, efficaces, et utilisables individuellement depuis la maison. Conjointement, il faut une solution technique neutre et anonyme qui permette de produire une carte météo du virus et d'avertir un groupe de personnes qui se sont croisés dans un lieu et pourraient se trouver sous une tempète. Lorsqu'un risque de contamination existe, on informe, et les tests rapides doivent être effectués anonymement.
 
-### Markdown
+> For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Une solution en 3 piliers
 
-- Bulleted
-- List
+Pour faire chutter le taux de reproduction R en dessous de 1.0, et donc éviter une reproduction exponentionnelle, il faut connaître la carte "météo" du virus. Ceci tout en respectant 3 piliers,
+- *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus
+- *Pas de trassage individuel;* Ce n'est pas la population qui doit être controlée, c'est le virus
+- *Une incitation finnancière individualisée;* L'état ne doit pas arroser aveuglement, il doit permettre l'économie locale de fonctionner
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### 1. Un protocol de test rapide 
 
-[Link](url) and ![Image](src)
-```
+TODO
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2. Une technologie neutre et anonyme pour suivre le virus pas la population
 
-### Jekyll Themes
+TODO
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evaletolab/free-covid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 3. Une incitation économique pour utiliser l'application
+
+TODO
+
 
 ### Support or Contact
 
