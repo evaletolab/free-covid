@@ -63,7 +63,7 @@ Avec le test rapide Antigen bon marché, et utilisable à domicile, la chaine de
 
 
 ### Support or Contact
-* toutes questions ou communication
+* [questions et communications](discussions),,, 
 
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
