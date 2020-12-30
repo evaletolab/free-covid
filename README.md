@@ -1,3 +1,11 @@
+![image](https://scontent.fqls1-1.fna.fbcdn.net/v/t1.0-9/132591490_10159408490888643_7282352154808600270_o.jpg)
+
+
+# Free COVID-19 :rocket:  
+**Release 30.12.2020**
+**Update 30.12.2020**
+**Version 0.1**
+
 ## Une solution Anti-Lockdown
 
 La stratégie de depistage Suisse est inversée, et part du principe qu'il faut effectuer un test chez un partenaire autorisé dès les premiers symptomes. A genève il existe une solution de test rapide (m3-test.ch), il faut prendre rendez-vous, et sans symptome il faut payer une facture de XXX chf ([source](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467))
