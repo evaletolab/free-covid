@@ -1,4 +1,4 @@
-![image](https://scontent.fqls1-1.fna.fbcdn.net/v/t1.0-9/132591490_10159408490888643_7282352154808600270_o.jpg)
+![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
 
 
 # Free COVID-19 :rocket:  
