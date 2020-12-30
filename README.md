@@ -1,9 +1,9 @@
 
 
 # Free COVID-19 :rocket:  
-**Release 30.12.2020**
-**Update 30.12.2020**
-**Version 0.1**
+**Release 30.12.2020** <br/>
+**Update 30.12.2020** <br/>
+**Version 0.1** <br/>
 
 ## Une solution Anti-Lockdown
 
