@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
 
 
 # Free COVID-19 :rocket:  
@@ -20,17 +19,21 @@ La prosition du Professeur Michael Mina (Epidemiology, Harvard T.H) inverse le p
 
 Pour faire chutter le taux de reproduction R en dessous de 1.0, et donc éviter une reproduction exponentionnelle, il faut connaître la carte "météo" du virus. Ceci tout en respectant 3 piliers,
 - *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus
-- *Pas de trassage individuel;* Ce n'est pas la population qui doit être controlée, c'est le virus
+- *Pas de traçage individuel;* Ce n'est pas la population qui doit être controlée, c'est le virus
 - *Une incitation finnancière individualisée;* L'état ne doit pas arroser aveuglement, il doit permettre l'économie locale de fonctionner
 
 
 ### 1. Un protocol de test rapide 
+Un test rapide est considéré si et seulement si il est accesssible simplement parout et sans restriction à toute la population à coût un marginal. Un test Antigen rapide est basée sur une technologie qui mesure la structure virale dans un échantillon (protéine), il n'est pas question de mesurer les anticorps résiduel de la suite d'une infection. Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptomes de la maladie.
 
-TODO
+- le département fédérale doit valider cette stratégie sur la base du travail de Michael Mina ( https://www.rapidtests.org)
+- le test doit être fiable, bon marché et accessible anonymement,
+- le test doit être identifiable par une ID unique et un Qr code
 
 ### 2. Une technologie neutre et anonyme pour suivre le virus pas la population
 
-TODO
+Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est inexistant à 100% il limite notre liberté individuelle. 
+
 
 ### 3. Une incitation économique pour utiliser l'application
 
@@ -39,4 +42,6 @@ TODO
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
