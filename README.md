@@ -13,7 +13,7 @@ La prosition du Professeur Michael Mina (Epidemiology, Harvard T.H) inverse le p
 
 > For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
-**Lockdown is not a solution**
+**Lockdown is not a solution, destroying small businesses is not a solution** <br/>
 [![Michael Mina](https://img.youtube.com/vi/PYd-Q_CYmKA/0.jpg)](https://www.youtube.com/watch?v=PYd-Q_CYmKA)
 
 
