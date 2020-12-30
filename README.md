@@ -34,8 +34,8 @@ Un test rapide est considéré si et seulement si il est accesssible simplement 
 
 ## 2. Une technologie neutre et anonyme pour construire une Carte "Météo"
 
-Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est **inexistant à 100% il touche notre liberté individuelle.**
-Les solutions SwissCovid et Covidwatch.org sont excellentes mais selon nous une autre manière est possible qui se concentre sur deux éléments: 
+Le traçage est caractérisé par a une précision qui varie entre 0 et 100%, à 0 il est inexistant et à 100% il est libeticide. Comme souvent c'est une question d'arbitrage qui produit une fonction dont le résultat un  vecteur de deux valeurs, sanitaire et économique.
+Les solutions SwissCovid et Covidwatch sont excellentes mais une autre manière est possible qui se concentre sur deux éléments: 
 
 - l'ajout d'une incitation d'utilisation; Qui doit remplacer le mode passif actuel.
 - joindre le traçage avec l'activité culturelle, de loisir et de consomation; L'application trace le passage dans un lieux de cluster
