@@ -1,7 +1,7 @@
 
 
 # Free COVID-19 :rocket:  
-**Release 30.12.2020** <br/>
+**type: specification** <br/>
 **Update 30.12.2020** <br/>
 **Version 0.1** <br/>
 
@@ -63,7 +63,7 @@ Avec le test rapide Antigen bon marché, et utilisable à domicile, la chaine de
 
 
 ### Support or Contact
-
+* toutes questions ou communication
 
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
