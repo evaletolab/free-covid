@@ -23,14 +23,14 @@ Pour faire chutter le taux de reproduction R en dessous de 1.0, et donc éviter 
 - *Une incitation finnancière individualisée;* L'état ne doit pas arroser aveuglement, il doit permettre l'économie locale de fonctionner
 
 
-### 1. Un protocol de test rapide 
+## 1. Un protocol de test rapide 
 Un test rapide est considéré si et seulement si il est accesssible simplement parout et sans restriction à toute la population à coût un marginal. Un test Antigen rapide est basée sur une technologie qui mesure la structure virale dans un échantillon (protéine), il n'est pas question de mesurer les anticorps résiduel de la suite d'une infection. Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptomes de la maladie.
 
 - le département fédérale doit valider cette stratégie sur la base du travail de Michael Mina ( https://www.rapidtests.org)
 - le test doit être fiable, bon marché et accessible anonymement,
 - le test doit être identifiable par une ID unique et un Qr code
 
-### 2. Une technologie neutre et anonyme pour suivre le virus pas la population
+## 2. Une technologie neutre et anonyme pour suivre le virus pas la population
 
 Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est **inexistant à 100% il touche notre liberté individuelle.**
 La solution SwissCovid est bonne mais selon nous elle fait fausse route avec deux éléments: 
@@ -46,7 +46,7 @@ La solution SwissCovid est bonne mais selon nous elle fait fausse route avec deu
 4. Toutes les personnes informées peuvent utiliser leur test rapide, et informer le statut de leur trace.
 
 
-### 3. Une incitation économique pour utiliser l'application
+## 3. Une incitation économique pour utiliser l'application
 
 En se concentrant sur les clusters, l'application permet également d'échanger une cryptomonnaie dédiée à stimuler l'économie nationale. En effet, le token peut être acheté en ligne à 10% ou 20% de sa valeur marchande. Ensuite, ils sont disponibles dans l'application pour consommer des produits du lieu visité. Le commerçant peut convertir ces TOKEN en argent depuis une plateforme en ligne.
 
