@@ -48,7 +48,7 @@ La solution SwissCovid est bonne mais selon nous elle fait fausse route avec deu
 
 ### 3. Une incitation économique pour utiliser l'application
 
-En se concentrant sur les clusters, l'application permet également d'échanger une cryptomonnaie dédiée à stimuler l'économie locale. En effet, le token peut être acheté en ligne à 10% ou 20% de sa valeur marchande. Ensuite, ils sont disponibles dans l'application pour consommer des produits du lieu visité. Le commerçant peut convertir ces TOKEN en argent depuis une plateforme en ligne.
+En se concentrant sur les clusters, l'application permet également d'échanger une cryptomonnaie dédiée à stimuler l'économie nationale. En effet, le token peut être acheté en ligne à 10% ou 20% de sa valeur marchande. Ensuite, ils sont disponibles dans l'application pour consommer des produits du lieu visité. Le commerçant peut convertir ces TOKEN en argent depuis une plateforme en ligne.
 
 
 ### Support or Contact
