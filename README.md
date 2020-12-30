@@ -32,14 +32,23 @@ Un test rapide est considéré si et seulement si il est accesssible simplement 
 
 ### 2. Une technologie neutre et anonyme pour suivre le virus pas la population
 
-Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est inexistant à 100% il touche notre liberté individuelle. 
-La solution SwissCovid est bonne mais selon nous il fait fausse route avec deux éléments: un pilier incitatif et un traçage des cluster à la place des individus.
+Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est **inexistant à 100% il touche notre liberté individuelle.**
+La solution SwissCovid est bonne mais selon nous elle fait fausse route avec deux éléments: 
 
-TODO
+- il manque un pilier incitatif,
+- le traçage bluetooth à trop d'inconvénient et ne permet pas d'éviter le lockdown,
+- on ne peut pas utiliser l'application pour un restaurant, un magasin, un lieu culturel
+
+0. Après avoir installé l'application, on achète un test rapide Antigen à 5 fr que l'on garde.
+1. La trace individuelle est anonyme, on retient la trace des clusters: magasins, restaurants, stades, théâtres, clubs, écoles, stations, etc.
+2. La trace anonyme est enregistrée sur le réseau publique Ethereum et permet de produire une carte "météo" par cluster qui sont eux identifiés
+3. Si une personne est testée positive au COVID-19, elle informe l'application qui va ensuite suivre les clusters qu'elle a parcouru les 5 derniers jours, et informer toutes les personnes des clusters d'effectuer un test rapide à 5 fr.
+4. Toutes les personnes informées peuvent utiliser leur test rapide, et informer le statut de leur trace.
+
 
 ### 3. Une incitation économique pour utiliser l'application
 
-TODO
+En se concentrant sur les clusters, l'application permet également d'échanger une cryptomonnaie dédiée à stimuler l'économie locale. En effet, le token peut être acheté en ligne à 10% ou 20% de sa valeur marchande. Ensuite, ils sont disponibles dans l'application pour consommer des produits du lieu visité. Le commerçant peut convertir ces TOKEN en argent depuis une plateforme en ligne.
 
 
 ### Support or Contact
