@@ -33,10 +33,12 @@ Un test rapide est considéré si et seulement si il est accesssible simplement 
 ## 2. Une technologie neutre et anonyme pour suivre le virus pas la population
 
 Le traçage est caractérisé par a une valeur entre 0 et 100%, à 0 il est **inexistant à 100% il touche notre liberté individuelle.**
-Les solutions SwissCovid et Covidwatch.org sont bonnes mais selon nous une autre route est possible qui se concentre sur deux éléments: 
+Les solutions SwissCovid et Covidwatch.org sont excellentes mais selon nous une autre manière est possible qui se concentre sur deux éléments: 
 
 - l'ajout d'un pilier incitatif,
-- joindre le traçage avec l'activité sociale et commerciale,
+- joindre le traçage ET l'activité culturelle et consumériste,
+
+Notre proposition, 
 
 0. Après avoir installé l'application, on achète un test rapide Antigen à 5 fr que l'on garde.
 1. La trace individuelle est anonyme, on retient la trace des clusters: magasins, restaurants, stades, théâtres, clubs, écoles, stations, etc.
