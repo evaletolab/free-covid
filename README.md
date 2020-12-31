@@ -23,7 +23,7 @@ La prosition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne que
 Pour faire maintenir le taux de reproduction R en dessous de 1.0 (reproduction non exponentionnelle) et donc éviter le lockdown, il faut connaître la carte "météo" du virus. Ceci tout en respectant 3 piliers,
 - *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus
 - *Pas de traçage individuel;* Ce n'est pas la population qui doit être controlée, c'est le virus
-- *Une incitation finnancière individualisée;* L'état ne doit pas arroser aveuglement, il doit permettre l'économie locale de fonctionner
+- *Une incitation finnancière individualisée;* L'état ne doit pas arroser aveuglement, il doit compenser de manière ciblé
 
 
 ## 1. Un protocol de test rapide 
