@@ -33,12 +33,16 @@ L'objectif d'un dépistage efficace participe au control du taux de reproduction
 L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de Lockdown qui s'applique (et le fédéralisme qui est sur pause) . 
 
 ## Control du virus, en résumer
-On a ainsi, **1)** le dépistage (tests et SwissCovid), **2)** les mesures d'isolation, **3)** l'indicateur du taux de reproduction `Re` et **4)** le Lockdown. 
+On a ainsi, 
+* **1)** le dépistage (tests et SwissCovid) _sous control administratif_, 
+* **2)** les mesures d'isolation, 
+* **3)** la mesure de l'indicateur du taux de reproduction `Re` et 
+* **4)** le Lockdown _à éviter_. 
 **Et si on avait une meilleure stratégie de dépistage ?**
 
 
 # Un problème de vitesse
-La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne que le principale problème du dépistage actuel c'est la faible détection, conséquence des barières administratives. Selon lui, le problème de la déection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il affirme que le le Lockdown doit être uniquement une solution d'urgence, efficace seulement pour gagner un peu de temps, en dehors il créé plus de problèmes qu'il n'en résout. L'hypothèse de M. Mina est simple à mettre en oeuvre. A la place de suivre le viruspar extrapolation, il faut suivre la zone contagieuse du virus avec une latence la plus petite possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent et elles permettent de prendre le control en seulement 30 jours jusqu'au moment ou on atteint le seuil de l'immunité collective.
+La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne que le principale problème du dépistage actuel c'est la faible détection  ( conséquence des barières administratives et des coûts). Selon lui, le problème de la déection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il propose de tout essayer pour éviter le Lockdown qui doit être uniquement une solution d'urgence. L'hypothèse du Pr. Mina est simple à mettre en oeuvre, il faut suivre la zone contagieuse du virus avec la plus petite latence possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent, elles sont d'excellentes qualités et elles permettent de prendre le control en seulement 30 jours du taux de reproduction.
 
 > For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
@@ -48,20 +52,20 @@ La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne q
 
 # Une solution en 3 piliers
 
-Pour faire maintenir le taux de reproduction R en dessous de 1.0 (reproduction non exponentionnelle) et donc éviter le lockdown, il faut connaître la carte "météo" du virus. Ceci tout en respectant 3 piliers,
-- *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus
-- *Pas de traçage individuel;* Ce n'est pas la population qui doit être controlée, c'est le virus
-- *Une incitation finnancière individualisée;* L'état ne doit pas arroser aveuglement, il doit compenser de manière ciblé
+Pour maintenir le taux de reproduction Re en dessous de 1.0 (et de tendre vers une propagation linéaire), on évite l'usage du Lockdown. Il faut respecter 3 piliers,
+- *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus,
+- *créer une carte "météo" du virus;* Ce n'est pas la population qui doit être controlée, c'est le virus
+- *Une incitation finnancière individualisée;* L'état ne peut pas arroser, il doit compenser ceux qui ne peuvent pas travailler
 
 
-## 1. Un protocol de test rapide 
-Un test rapide est considéré si et seulement si il est accesssible simplement parout et sans restriction à toute la population à coût un marginal. Un test Antigen rapide est basée sur une technologie qui mesure la structure virale dans un échantillon (protéine), il n'est pas question de mesurer les anticorps résiduel de la suite d'une infection. Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptomes de la maladie.
+## 1. Légaliser le test rapide, bon marché et sans prescription 
+Un test rapide est considéré si et seulement si il est accesssible simplement parout et sans restriction à toute la population à coût un marginal. Un test Antigen rapide est basée sur détection de la structure virale (protéine), il n'est pas question de mesurer les anticorps résiduels de la suite d'une infection. Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptomes de la maladie.
 
 - le département fédérale doit valider cette stratégie sur la base du travail de Michael Mina ( https://www.rapidtests.org)
 - le test doit être fiable, bon marché et accessible anonymement,
 - le test doit être identifiable par un ID unique 
 
-## 2. Une technologie neutre et anonyme pour construire une Carte "Météo"
+## 2. Créer une application pour construire une Carte "Météo" basée sur une incitation économique
 
 Le traçage est caractérisé par a une précision qui varie entre 0 et 100%, à 0 il est inexistant et à 100% il est libeticide. Comme souvent c'est une question d'arbitrage qui produit une fonction dont le résultat un  vecteur de deux valeurs, sanitaire et économique.
 Les solutions SwissCovid et Covidwatch sont excellentes mais une autre manière est possible qui se concentre sur deux éléments: 
