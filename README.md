@@ -6,7 +6,7 @@
 **Version 0.1** <br/>
 
 ## Nous pouvons mettre fin à la pandémie AUJOURD'HUI
-### Les tests rapides, bon marchés et sans prescription aide à arrêter la propagation du COVID-19
+### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
 Les tests Antigen rapides bon marché et sans prescription, augmente massivement le nombre de cas détectés. Ils permettent d'activer l'isolement que lorsque c'est indispenssable ce qui casse la chaine de contagion. [La recherche a montré](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
