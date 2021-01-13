@@ -10,11 +10,10 @@
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
-Les tests Antigen rapides bon marchés et sans prescription, augmentent massivement le nombre de cas positifs détectés. Ils permettent d'activer rapidement  l'isolement des personnes contagieuse, ce qui aide à casser la chaine de contagion et à faire baisser le taux de reproduction Re. [La recherche a montré](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
-Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, les commerces et les lieux culturels, mais en même temps, il faut controller le virus pour éviter le débordement du système de santé.
+Les tests Antigen rapides bon marchés et sans prescription, augmentent massivement la détection des cas positifs. Ils permettent d'activer beaucoup rapidement l'isolement des personnes contagieuse, ce entreine un effondrement de la chaine de contagion et fait baisser le taux de reproduction Re. [La recherche a montré](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
+Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, les commerces et les lieux culturels, mais en même temps, il faut controller le virus pour éviter l'effondrement du système de santé.
 
 Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://www.rapidtests.org/expert-letter) sont d'accord: pour contrôler le virus nous avons besoin de millions de ces tests par jour.
-
 
 ![case](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609635150143-2RGHOBZNKZMUWGA374AX/ke17ZwdGBToddI8pDm48kMr7cO87uK4i5FGmPfgnAmJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0tLQ7Yw5rvbjD09fusQ6zruw_237OMvrlo6Pc0CJdbfdeTHYj9jtBJKhNQnMMHkZZQ/new_curve.png?format=750w)
 
@@ -26,7 +25,7 @@ Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais i
 
 ## Ce qui change avec la procédure actuelle 
 
-L'objectif d'un dépistage efficace participe au control du taux de reproduction le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou une offre alternative dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Ce sont des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
+L'objectif d'un dépistage efficace participe au maintient du taux de reproduction le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou toutes offres alternatives légales dès les premiers symptômes. A Genève il existe plusieurs solutions de test rapide comme par exemple avec m3-test.ch. Ce sont des solutions de désengorgement des centres médicaux, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
 
 
 ## Re, l'indicateur de propagation
