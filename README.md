@@ -1,9 +1,9 @@
 
 
-**type: specification** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
+**type: [specification](https://evaletolab.github.io/free-covid/)** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 30.12.2020** <br/>
 **Version 0.1** <br/>
-** https://evaletolab.github.io/free-covid/ <br/>
+
 
 
 ## Nous pouvons mettre fin à la pandémie AUJOURD'HUI
