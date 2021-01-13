@@ -19,8 +19,8 @@ Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://ww
 
 Les tests Antigen rapides ne détectent pas tous les cas, mais ils sont très sensibles dès que l'on est contagieux. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus plusieurs semaines après la maladie)_
 
-* Les tests Antigen rapides détectent certaines protéines du virus (comme Spike) c'est à dire la structure du virus, alors que les test PCR détecte le RNA du virus (dont les traces existes pendant plusieurs semaines après la période de contagion) 
-* Les faux positifs, (Erreur de détection) représentent 1% à 2% des tests, ce problème étant connu, la solution est prévu et intégrée avec la boite de tests (sur une boîte de 20 tests qui détecte la protéine Spkie, il y a toujours quelques tests qui détecte une autre protéine, ce qui fait tomber l'erreur à 0.01%) 
+* Les tests Antigen rapides détectent certaines protéines du virus (comme Spike) c'est à dire qu'ils sont sensibles à la structure du virus, alors que les test PCR détecte les molécule de RNA du virus dont les traces (cadavres) existes plusieurs semaines après la période de contagion) 
+* Les faux positifs, (érreur de détection) représentent 1% à 2% des tests, ce problème étant connu, la solution est prévu et intégrée avec la boite de tests (sur une boîte de 20 tests qui détecte la protéine Spkie, il y a toujours quelques tests qui détecte une autre protéine, ce qui fait tomber l'erreur à 0.01%) 
 
 
 
