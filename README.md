@@ -46,7 +46,7 @@ La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne q
 [![Michael Mina](https://img.youtube.com/vi/PYd-Q_CYmKA/0.jpg)](https://www.youtube.com/watch?v=PYd-Q_CYmKA)
 
 
-#Une solution en 3 piliers
+# Une solution en 3 piliers
 
 Pour faire maintenir le taux de reproduction R en dessous de 1.0 (reproduction non exponentionnelle) et donc éviter le lockdown, il faut connaître la carte "météo" du virus. Ceci tout en respectant 3 piliers,
 - *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus
