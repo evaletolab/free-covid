@@ -9,7 +9,7 @@
 ### Les tests rapides et sans prescription aide à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
-Les tests Antigen rapides bon marché et sans prescription, augmente le nombre de cas détectés qui dans la situation actuelle aurait été manqués. Ils permettent de systématiser l'isolement lorsque c'est indispenssable pour casser la chaine de contagion. La recherche a montré qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
+Les tests Antigen rapides bon marché et sans prescription, augmente le nombre de cas détectés qui dans la situation actuelle aurait été manqués. Ils permettent de systématiser l'isolement lorsque c'est indispenssable pour casser la chaine de contagion. [La recherche a montré](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
 Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, les commerces et les lieux culturels et en même temps, il faut controller le virus pour éviter le débordement du système de santé.
 
 Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://www.rapidtests.org/expert-letter) sont d'accord: pour contrôler le virus nous avons besoin de millions de ces tests par jour.
