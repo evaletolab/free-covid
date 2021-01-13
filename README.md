@@ -9,7 +9,8 @@
 ### Les tests rapides et sans prescription aide à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
-Les tests Antigen rapides bon marché et sans prescription, peuvent augmenter le nombre de cas détectés et indivudellement nous permettre de casser la chaine de contagion. La recherche a montré qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, commerces et lieux culturels et en même temps, sans déborder les systèmes de santé. Il faut controller le virus!
+Les tests Antigen rapides bon marché et sans prescription, augmente le nombre de cas détectés qui dans la situation actuelle aurait été manqués. Ils permettent de systématiser l'isolement lorsque c'est indispenssable pour casser la chaine de contagion. La recherche a montré qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
+Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, les commerces et les lieux culturels et en même temps, il faut controller le virus pour éviter le débordement du système de santé.
 
 Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://www.rapidtests.org/expert-letter) sont d'accord: pour contrôler le virus nous avons besoin de millions de ces tests par jour.
 
@@ -17,6 +18,10 @@ Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://ww
 ![case](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609635150143-2RGHOBZNKZMUWGA374AX/ke17ZwdGBToddI8pDm48kMr7cO87uK4i5FGmPfgnAmJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0tLQ7Yw5rvbjD09fusQ6zruw_237OMvrlo6Pc0CJdbfdeTHYj9jtBJKhNQnMMHkZZQ/new_curve.png?format=450w)
 
 Les tests Antigen rapides ne détectent pas tous les cas, mais ils sont très bons pour détecter dès que l'on est contagieux. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus même lorsqu'on est plus malade)_
+
+* Les tests Antigen rapides détectent certaines protéines du virus (comme Spike) c'est à dire la structure du virus, alors que les test PCR détecte le RNA du virus (dont les traces existes pendant plusieurs semaines après la période de contagion) 
+* Les faux positifs, (Erreur de détection) représentent 1% à 2% des tests, ce problème étant connu, la solution est prévu et intégrée avec la boite de tests (sur une boîte de 20 tests qui détecte la protéine Spkie, il y a toujours quelques tests qui détecte une autre protéine, ce qui fait tomber l'erreur à 0.01%) 
+
 
 
 La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou utilisez les offres de dépistage cantonal dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([source](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)) L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui pour simplifier, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de lockdown qui s'applique et le coma artificiel du fédéralisme. On a ainsi, **1)** le dépistage, **2)** les mesures de confinement, **3)** la valeur de `Re` et **4)** le lockdown. **Et si on avait une meilleure stratégie de dépistage ?**
