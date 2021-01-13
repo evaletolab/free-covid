@@ -23,7 +23,7 @@ Les tests Antigen rapides ne détectent pas tous les cas, mais ils sont très se
 * Les faux positifs, (érreur de détection) représentent 1% à 2% des tests, ce problème étant connu, la solution est prévu et intégrée avec la boite de tests (sur une boîte de 20 tests qui détecte la protéine Spkie, il y a toujours quelques tests qui détecte une autre protéine, ce qui fait tomber l'erreur à 0.01%) 
 
 
-## 
+## Ce qui change avec aujourd'hui
 
 La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou utilisez les offres de dépistage cantonal dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([source](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)) L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui pour simplifier, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de lockdown qui s'applique et le coma artificiel du fédéralisme. On a ainsi, **1)** le dépistage, **2)** les mesures de confinement, **3)** la valeur de `Re` et **4)** le lockdown. **Et si on avait une meilleure stratégie de dépistage ?**
 
