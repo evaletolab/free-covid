@@ -4,7 +4,7 @@
 **Update 30.12.2020** <br/>
 **Version 0.1** <br/>
 
-
+> Merci d'indiquer en commentaire les erreurs ou le manque de détails pour permettre a ce document d'atteindre une bonne qualité
 
 ## Nous pouvons mettre fin à la pandémie AUJOURD'HUI
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
@@ -26,19 +26,19 @@ Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais i
 
 ## Ce qui change avec la procédure actuelle 
 
-La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou une offre alternative dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Ce sont des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
+L'objectif d'un dépistage efficace participe au control du taux de reproduction le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou une offre alternative dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Ce sont des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
 
 
 ## Re, l'indicateur de propagation
 L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de Lockdown qui s'applique (et le fédéralisme qui est sur pause) . 
 
-## Résumer du control du virus
+## Control du virus, en résumer
 On a ainsi, **1)** le dépistage (tests et SwissCovid), **2)** les mesures d'isolation, **3)** l'indicateur du taux de reproduction `Re` et **4)** le Lockdown. 
 **Et si on avait une meilleure stratégie de dépistage ?**
 
 
-**Un problème de vitesse :bicyclist:**</br>
-La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne que le principale problème du dépistage actuel c'est la faible détection qui est une conséquence des barières administratives. Selon lui, le problème de vitesse n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il affirme que le le Lockdown doit être une solution d'urgence, efficace pour gagner un peu de temps, mais en dehors de l'urgence, il créé plus de problèmes qu'il n'en résout. L'hypothèse de M. Mina est simple à mettre en oeuvre. A la place de suivre le virus, il faut suivre la zone contagieuse du virus avec une latence faible. Il faut déployer des tests rapides, bon marchés (*<= 5 fr*), efficaces (*basé sur la structure virale ou le RNA*), et utilisables anonymement depuis la maison. Conjointement, il faut une solution technique, neutre et anonyme, qui permette de produire une carte "Météo" du virus actif pour permettre d'avertir les personnes qui ont traversés un lieu risqué à moment donné. Lorsqu'un risque de contamination existe, on informe, et on tests rapidement, sans cout et anonymement. Selon Michael Mina, une solution efficace permettrait en 30 jours, de vivre avec le virus sans lockdown jusqu'au moment ou on atteint le seuil de l'immunité collective.
+# Un problème de vitesse
+La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne que le principale problème du dépistage actuel c'est la faible détection, conséquence des barières administratives. Selon lui, le problème de la déection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il affirme que le le Lockdown doit être uniquement une solution d'urgence, efficace seulement pour gagner un peu de temps, en dehors il créé plus de problèmes qu'il n'en résout. L'hypothèse de M. Mina est simple à mettre en oeuvre. A la place de suivre le viruspar extrapolation, il faut suivre la zone contagieuse du virus avec une latence la plus petite possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent et elles permettent de prendre le control en seulement 30 jours jusqu'au moment ou on atteint le seuil de l'immunité collective.
 
 > For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
@@ -46,7 +46,7 @@ La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne q
 [![Michael Mina](https://img.youtube.com/vi/PYd-Q_CYmKA/0.jpg)](https://www.youtube.com/watch?v=PYd-Q_CYmKA)
 
 
-## Une solution en 3 piliers
+#Une solution en 3 piliers
 
 Pour faire maintenir le taux de reproduction R en dessous de 1.0 (reproduction non exponentionnelle) et donc éviter le lockdown, il faut connaître la carte "météo" du virus. Ceci tout en respectant 3 piliers,
 - *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus
