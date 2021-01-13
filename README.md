@@ -17,15 +17,23 @@ Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://ww
 
 ![case](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609635150143-2RGHOBZNKZMUWGA374AX/ke17ZwdGBToddI8pDm48kMr7cO87uK4i5FGmPfgnAmJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0tLQ7Yw5rvbjD09fusQ6zruw_237OMvrlo6Pc0CJdbfdeTHYj9jtBJKhNQnMMHkZZQ/new_curve.png?format=750w)
 
-Les tests Antigen rapides ne détectent pas tous les cas, mais ils sont très sensibles dès que l'on est contagieux. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus plusieurs semaines après la maladie)_
+Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais ils ont l'avantage d'être très sensibles lorsqu'on est contagieux. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus plusieurs semaines après la maladie)_
 
 * Les tests Antigen rapides détectent certaines protéines du virus (comme Spike) c'est à dire qu'ils sont sensibles à la structure du virus, alors que les test PCR détecte les molécule de RNA du virus dont les traces (cadavres) existes plusieurs semaines après la période de contagion) 
 * Les faux positifs, (érreur de détection) représentent 1% à 2% des tests, ce problème étant connu, la solution est prévu et intégrée avec la boite de tests (sur une boîte de 20 tests qui détecte la protéine Spkie, il y a toujours quelques tests qui détecte une autre protéine, ce qui fait tomber l'erreur à 0.01%) 
 
 
-## Ce qui change avec aujourd'hui
+## Ce qui change avec la procédure actuelle 
 
-La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou utilisez les offres de dépistage cantonal dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([source](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)) L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui pour simplifier, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de lockdown qui s'applique et le coma artificiel du fédéralisme. On a ainsi, **1)** le dépistage, **2)** les mesures de confinement, **3)** la valeur de `Re` et **4)** le lockdown. **Et si on avait une meilleure stratégie de dépistage ?**
+La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou une offre alternative dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Ce sont des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467))
+
+## Re, l'indicateur de propagation
+L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui  s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de lockdown qui s'applique et le fédéralisme qui mis en coma artificiel. 
+
+## Résumer du control du virus
+On a ainsi, **1)** le dépistage (tests et SwissCovid), **2)** les mesures d'isolation, **3)** l'indicateur du taux de reproduction `Re` et **4)** le Lockdown. 
+**Et si on avait une meilleure stratégie de dépistage ?**
+
 
 **Un problème de vitesse :bicyclist:**</br>
 La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne que le principale problème du dépistage actuel c'est la faible détection qui est une conséquence des barières administratives. Selon lui, le problème de vitesse n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il affirme que le le Lockdown doit être une solution d'urgence, efficace pour gagner un peu de temps, mais en dehors de l'urgence, il créé plus de problèmes qu'il n'en résout. L'hypothèse de M. Mina est simple à mettre en oeuvre. A la place de suivre le virus, il faut suivre la zone contagieuse du virus avec une latence faible. Il faut déployer des tests rapides, bon marchés (*<= 5 fr*), efficaces (*basé sur la structure virale ou le RNA*), et utilisables anonymement depuis la maison. Conjointement, il faut une solution technique, neutre et anonyme, qui permette de produire une carte "Météo" du virus actif pour permettre d'avertir les personnes qui ont traversés un lieu risqué à moment donné. Lorsqu'un risque de contamination existe, on informe, et on tests rapidement, sans cout et anonymement. Selon Michael Mina, une solution efficace permettrait en 30 jours, de vivre avec le virus sans lockdown jusqu'au moment ou on atteint le seuil de l'immunité collective.
