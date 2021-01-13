@@ -25,7 +25,8 @@ Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais i
 
 ## Ce qui change avec la procédure actuelle 
 
-La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou une offre alternative dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Ce sont des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467))
+La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou une offre alternative dès les premiers symptômes. A Genève il existe aussi plusieurs solutions de test rapide comme avec m3-test.ch. Ce sont des solutions de désengorgement, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
+
 
 ## Re, l'indicateur de propagation
 L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de Lockdown qui s'applique (et le fédéralisme qui est sur pause) . 
