@@ -6,6 +6,11 @@
 
 > Merci d'indiquer en commentaire les erreurs ou le manque de détails pour permettre a ce document d'atteindre une bonne qualité
 
+## Qui est Michael Mina
+* (Epidemiology, Harvard T.H)
+* https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/
+* Dr. Michael Mina, MD, PhD is an Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
+
 ## Nous pouvons mettre fin à la pandémie AUJOURD'HUI
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
@@ -31,17 +36,18 @@ L'objectif d'un dépistage efficace participe au maintient du taux de reproducti
 ## Re, l'indicateur de propagation
 L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de Lockdown qui s'applique (et le fédéralisme qui est sur pause) . 
 
-## Control du virus, en résumer
-On a ainsi, 
-* **1)** le dépistage (tests et SwissCovid) _sous control administratif_, 
-* **2)** les mesures d'isolation, 
-* **3)** la mesure de l'indicateur du taux de reproduction `Re` et 
-* **4)** le Lockdown _à éviter_. 
-**Et si on avait une meilleure stratégie de dépistage ?**
+## Le control du virus, en résumer
+C'est l'adition des mesures qui permettent de faire baisser la propagation du virus. Lorsque les autres mesures ne sont pas suffisament efficace, alors il reste la dernière mesure, le Lockdow.
+* **0)** les mesures barrières (masque, hygiène et distance), 
+* **1)** le dépistage (tests et SwissCovid), 
+* **2)** l'isolation, 
+* **3)** l'indicateur du taux de reproduction `Re` et 
+* **4)** le Lockdown _(bombe atomique)_. 
 
+La solution de l'équipe du Pr Michael Mina, consiste à renforcer les mesures de depistage.  **Le dépistage est un problème technique qui peut être amélioré avec plusieurs ordres de grandeurs**
 
 # Un problème de vitesse
-La proposition du Professeur Michael Mina (Epidemiology, Harvard T.H) souligne que le principale problème du dépistage actuel c'est la faible détection  ( conséquence des barières administratives et des coûts). Selon lui, le problème de la déection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il propose de tout essayer pour éviter le Lockdown qui doit être uniquement une solution d'urgence. L'hypothèse du Pr. Mina est simple à mettre en oeuvre, il faut suivre la zone contagieuse du virus avec la plus petite latence possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent, elles sont d'excellentes qualités et elles permettent de prendre le control en seulement 30 jours du taux de reproduction.
+La proposition du Professeur Michael Mina souligne que le principale problème du dépistage actuel c'est la faible détection  ( conséquence des barières administratives et des coûts). Selon lui, le problème de la déection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il propose de tout essayer pour éviter le Lockdown qui doit être uniquement une solution d'urgence. L'hypothèse du Pr. Mina est simple à mettre en oeuvre, il faut suivre la zone contagieuse du virus avec la plus petite latence possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent, elles sont d'excellentes qualités et elles permettent de prendre le control en seulement 30 jours du taux de reproduction.
 
 > For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
