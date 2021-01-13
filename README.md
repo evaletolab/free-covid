@@ -17,7 +17,7 @@ Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://ww
 
 ![case](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609635150143-2RGHOBZNKZMUWGA374AX/ke17ZwdGBToddI8pDm48kMr7cO87uK4i5FGmPfgnAmJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0tLQ7Yw5rvbjD09fusQ6zruw_237OMvrlo6Pc0CJdbfdeTHYj9jtBJKhNQnMMHkZZQ/new_curve.png?format=750w)
 
-Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais ils ont l'avantage d'être très sensibles lorsqu'on est contagieux. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus plusieurs semaines après la maladie)_
+Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais ils ont l'avantage d'être très sensibles avec les personnes contagieuses. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus plusieurs semaines après la maladie)_
 
 * Les tests Antigen rapides détectent certaines protéines du virus (comme Spike) c'est à dire qu'ils sont sensibles à la structure du virus, alors que les test PCR détecte les molécule de RNA du virus dont les traces (cadavres) existes plusieurs semaines après la période de contagion) 
 * Les faux positifs, (érreur de détection) représentent 1% à 2% des tests, ce problème étant connu, la solution est prévu et intégrée avec la boite de tests (sur une boîte de 20 tests qui détecte la protéine Spkie, il y a toujours quelques tests qui détecte une autre protéine, ce qui fait tomber l'erreur à 0.01%) 
