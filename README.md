@@ -4,7 +4,7 @@
 **Update 30.12.2020** <br/>
 **Version 0.1** <br/>
 
-> Merci d'indiquer en commentaire les erreurs ou le manque de détails pour permettre a ce document d'atteindre une bonne qualité
+> Merci d'indiquer en commentaire les erreurs ou le manque de détails pour permettre à ce document d'atteindre une qualité suffisante
 
 ## Qui est Michael Mina
 * Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
