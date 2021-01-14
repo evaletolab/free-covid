@@ -16,9 +16,9 @@
 ## Que propose-t-il ?
 **«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour controller le virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Le rôle de l'ingénieur c'est de résoudre des problèmes avec les connaissances produites par les scientifiques. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de tomber dans une source qui finalement se révèlerait être "fausse". La meilleure décision, c'est d'attendre et de voir.
 
-Finalement, le problème est peut être lié au temps démocratique, considéré aujourd'hui comme trop lent, générant trop d'erreurs, la démocratie est confrontée à la vitesse et l'horizontalitée sans frontière des échanges sur Internet. Comme dirait Machin: «today, démocratie doesn't scale».
+Le problème est peut être lié au temps démocratique, le temps de digestion de l'information avant sa publication est dépassé par la vitesse et l'horizontalitée sans frontière des échanges sur Internet. Comme dirait Machin: «today, démocratie doesn't scale».
 
-Après un temps d'incubation démocratique nécessaire, le nouveau [gouvernement Bidens](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/) souhaite mettre en place la proposition du Dr Michael Mina.«[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. 
+Mais finalement, après le temps d'incubation démocratique nécessaire, le nouveau [gouvernement Bidens](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/) décide de mettre en place la proposition du Dr Michael Mina dès le 20 Janvier.«[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. 
 
 
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
