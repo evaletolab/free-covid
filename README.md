@@ -4,6 +4,7 @@
 
 
 
+
 **type: [snythèse](https://evaletolab.github.io/free-covid/)** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 14.01.2020** <br/>
 **Version 0.4** <br/>
@@ -21,10 +22,11 @@
 **[youtube => Lockdown is not a solution, destroying small businesses is not a solution](https://www.youtube.com/watch?v=PYd-Q_CYmKA)** <br/>
 
 ## Que propose-t-il ?
-**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est que cette méthode est inédite, elle n'a pas sa place dans un univers de bureaucratie et d'experts qui se renvoient la balle. Mais le Dr Mina n'abandonne pas, avec une formation de base d'ingénieur, le Dr Mina a un certain gout et une admiration à la résolution de problèmes pratiques. C'est avec les connaissances validées par les scientifiques que les ingénieurs rendent possible ce qui était alors impossible. Malheureusement une solution technique hors standard, pour résoudre un problème sanitaire dans l'urgence, a de la peine a convaincre, même les journalistes ont peurs de prendre un chemin qui peut être pourraient se retourner contre eux. Pour la plupart, la meilleure décision, c'est d'attendre et de voir qui va bouger le premier.
+**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est que cette méthode est inédite, elle n'a pas sa place dans un univers de bureaucratie et d'experts qui se renvoient la balle. Mais le Dr Mina n'abandonne pas, avec une formation de base d'ingénieur, le Dr Mina a un certain goût, c'est même une admiration, à la résolution de problèmes pratiques. C'est avec les connaissances validées par les scientifiques que les ingénieurs rendent possible ce qui était alors impossible. Malheureusement une solution technique hors standard, pour résoudre un problème sanitaire dans l'urgence, a de la peine a convaincre, même les journalistes ont peurs de prendre un chemin qui peut être pourraient se retourner contre eux. Pour la plupart, la meilleure décision, c'est d'attendre et de voir qui va bouger le premier.
 
-Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. Comme dirait Dr Machin: [«today, democracy doesn't scale»](https://www.swissinfo.ch/eng/directdemocracy/opinion_-direct-democracy-isn-t-feasible-in-modern-societies-/41557818).
+Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. «Democracy doesn't scale with Internet», mais ca c'est une autre histoire.
 
+ Comme dirait Dr Machin: [«today, democracy doesn't scale»](https://www.swissinfo.ch/eng/directdemocracy/opinion_-direct-democracy-isn-t-feasible-in-modern-societies-/41557818).
 **Mais finalement**, après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est reconnu par le _nouveau_ gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
 > «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
