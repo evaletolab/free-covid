@@ -14,7 +14,12 @@
    * https://www.youtube.com/watch?v=PYd-Q_CYmKA
 
 ## Que propose-t-il ?
-Nous pouvons mettre fin à la pandémie AUJOURD'HUI! Touos les outils sont disponibles pour controller le virus, le problème c'est qu'il y a beaucoup d'experts, et pas assez d'ingénieurs. Le rôle d'ingénieur c'est de résoudre des problèmes. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de tomber dans une source qui finalement se révèlerait considérée comme "complotiste". La meilleure décision, c'est d'attendre et de voir.
+**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour controller le virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Le rôle de l'ingénieur c'est de résoudre des problèmes avec les connaissances produites par les scientifiques. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de tomber dans une source qui finalement se révèlerait considérée comme "complotiste". La meilleure décision, c'est d'attendre et de voir.
+
+Finalement, le problème est peut être lié au temps démocratique, considéré aujourd'hui comme trop lent, générant trop d'erreurs, la démocratie est confrontée à la vitesse et l'horizontalitée sans frontière des échanges sur Internet. Comme dirait Machin: «today, démocratie doesn't scale».
+
+Après un temps d'incubation démocratique nécessaire, le nouveau [gouvernement Bidens](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/) souhaite mettre en place la proposition du Dr Michael Mina.«[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. 
+
 
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
