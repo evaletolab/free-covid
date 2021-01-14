@@ -5,8 +5,6 @@
 
 
 
-> Merci de m'indiquer les erreurs ou le manque de détails pour permettre à ce document d'atteindre une qualité suffisante
-
 **type: [synthèse](https://evaletolab.github.io/free-covid/)** et traduction partielle de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 14.01.2020** <br/>
 **Version 0.4** <br/>
@@ -14,6 +12,7 @@
 **NEWS:** Après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est validé par le gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
 «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
+> Merci de m'indiquer les erreurs ou le manque de détails pour permettre à ce document d'atteindre une qualité suffisante
 
 ## Qui est le Dr Michael Mina
 * Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School 
