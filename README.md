@@ -41,19 +41,19 @@ Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais i
 * **Les faux négatifs** (pas de détection alors qu'on est porteur du virus); La majorité de ces cas concernent  des fragments désactivés d'ARN viral, c'est à dire des cadavres de virus non contagieux. Il arrive aussi de manquer certaines personnes contagieuses, la plupart des interventions de santé publique, comme les masques ou la distanciation sociale, n'ont pas besoin d'être parfaites pour être utiles.
 
 ## Pourquoi ces tests ne sont pas disponibles
-Le Dr Mina explique que le type de tests rapides qui pourraient contrôler la propagation du virus s'est heurté à des obstacles réglementaires. Bien que certains tests rapides aient été approuvés, ils nécessitent généralement une prescription et ne sont généralement pas approuvés pour une utilisation asymptomatique. 
-Les entreprises pourraient effectuer des dizaines de millions de tests simples par jour, mais choisissent de ne pas le faire parce qu'elles ne sont pas certaines de la réglementation et n'obtiennent pas d'incitation de la part du gouvernement.
+Le Dr Mina explique que le type de tests rapides qui pourraient contrôler la propagation du virus s'est heurté à des obstacles réglementaires. Bien que certains tests rapides aient été approuvés, ils nécessitent généralement une prescription et ne sont généralement pas recommandés pour une utilisation asymptomatique. 
+Les entreprises pourraient produires des dizaines de millions de tests simples par jour, mais choisissent de ne pas le faire si elles ne sont pas certaines d'avoir une réglementation favorable.
 
 ## Ce qui change avec la procédure actuelle 
 
-Un dépistage efficace couplé avec des mesures sanitaires simples, participent au maintient du taux de reproduction le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à, dès les premiers symptômes, contacter son médecin, l’hôpital ou toutes offres alternatives légales. A Genève il existe plusieurs solutions de test rapides comme par exemple avec m3-test.ch. Ce sont des solutions de désengorgement des centres médicaux, mais toutes nécessite une prescription, un rendez-vous et avec ou sans symptôme ils coûtent chers ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
+Un dépistage efficace couplé avec des mesures sanitaires simples, participent au maintient du taux de reproduction le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à, dès les premiers symptômes, contacter son médecin, l’hôpital ou toutes offres alternatives légales. A Genève il existe plusieurs solutions de test rapides comme par exemple avec m3-test.ch. Ce sont des solutions de désengorgement des centres médicaux, mais toutes nécessite une prescription ou un rendez-vous et avec ou sans symptôme ils coûtent chers ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
 
-On commence à le comprendre, le problème du virus ce n'est pas sa mortalité, c'est sa contagiosité. Un taux de reproduction au dessus de 1,0 accentue le développement exponentiel en laisse moins de temps. 
-Aujourd'hui **Si** la valeur ([Ro](https://www.covid19.admin.ch/fr/repro/val) )  est en dessus de 1.0 **Alors** c'est la politique de **Lockdown** qui s'applique (et le court-circuit du fédéralisme) . 
+On commence à le comprendre, le problème du virus ce n'est pas sa mortalité mais sa contagiosité. Un taux de reproduction au dessus de 1,0 accentue le développement exponentiel et les hopitaux n'aiment pas les développements exponentionels. 
+Aujourd'hui **Si** la valeur ([Ro](https://www.covid19.admin.ch/fr/repro/val) )  est en dessus de 1.0 **Alors** c'est la politique de **Lockdown** qui s'applique (et le court-circuit du fédéralisme). 
 
-C'est l'addition de mesures qui permettent de faire baisser la propagation du virus. Et lorsque toutes les premières mesures ne sont pas assez efficace, alors il reste le Lockdow.
+Lorsqu'on développe la chaîne de contrôle du virus, on constate que c'est avec l'addition de mesures qu'on fait baisser la propagation du virus. Et lorsque les mesures simples ne sont pas assez efficace, alors il reste le ... Lockdow.
 * **0)** les mesures barrières (masque, hygiène et distance), 
-* **1)** le dépistage (SwissCovid et tests), **⇐ c'est ici qu'on doit agir**
+* **1)** le dépistage (SwissCovid et tests), **⇐ c'est ici qu'on peut agir autrement**
 * **2)** l'isolation, 
 * **3)** le Lockdown _(bombe atomique)_. 
 
