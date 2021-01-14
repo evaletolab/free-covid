@@ -28,7 +28,7 @@
 
 Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. «Democracy doesn't scale with Internet», mais ca c'est une autre histoire.
 
-**Mais finalement**, après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est reconnu par le _nouveau_ gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
+**Finalement**, après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est reconnu par le _nouveau_ gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
 > «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
 Aujourd'hui c'est le moment d'évaluer son travail pour l'appliquer en Suisse.
