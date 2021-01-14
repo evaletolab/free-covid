@@ -10,7 +10,8 @@
 > Merci d'indiquer les erreurs ou le manque de détails pour permettre à ce document d'atteindre une qualité suffisante
 
 ## Qui est le Dr Michael Mina
-* Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
+* Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School 
+* Il est aussi Docteur en phylosophie et ingénieur ([linkedin](https://www.linkedin.com/in/michael-mina-711918113/))
 * il a publié de nombreux articles, il propose de contrôler la propagation du virus d'une manière beaucoup plus efficace,
    * [hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina](https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/)
    * [medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
