@@ -1,7 +1,8 @@
 
 
 
-**type: [specification](https://evaletolab.github.io/free-covid/)** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
+
+**type: [snythèse](https://evaletolab.github.io/free-covid/)** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 30.12.2020** <br/>
 **Version 0.1** <br/>
 
@@ -9,26 +10,27 @@
 
 ## Qui est Michael Mina
 * Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
-* il a publié de nombreux articles qui propose de controller la propagation du virus,
-   * puhttps://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/
+* il a publié de nombreux articles, il propose de contrôler la propagation du virus d'une manière beaucoup plus efficace,
+   * https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/
    * https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/
    * https://www.youtube.com/watch?v=PYd-Q_CYmKA
 
 ## Que propose-t-il ?
-**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler le virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. La formation de base du Dr Mina est ingénieur, il en comprend bien le sens. Le rôle de l'ingénieur c'est de résoudre des problèmes avec les connaissances produites par les scientifiques. Les ingénieurs rendent possible ce qui est impossible. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de prendre un chemin qui finalement se révélerait être "complotiste". La meilleure décision, c'est d'attendre et de voir.
+**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Avec une formation de base d'ingénieur, le Dr Mina comprend bien son utilité. Avec les connaissances produites par les scientifiques, les ingénieurs rendent possible ce qui était impossible (le vaccin mRNA est un bon exemple). Malheureusement ce message a de la peine a convaincre, les journalistes ont peurs de prendre un chemin qui finalement se révélerait être "le terreau d'une position complotiste". Pour la plupart, la meilleure décision, c'est d'attendre et de voir.
 
-Le problème est peut être lié au temps démocratique, le temps de digestion de l'information avant sa publication est dépassé par la vitesse et l'horizontalitée sans frontière des échanges sur Internet. Comme dirait Machin: «today, démocratie doesn't scale».
+Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. Comme dirait Dr Machin: [«today, democratie doesn't scale»](https://www.swissinfo.ch/eng/directdemocracy/opinion_-direct-democracy-isn-t-feasible-in-modern-societies-/41557818).
 
-Mais finalement, après le temps d'incubation démocratique nécessaire, le nouveau [gouvernement Bidens](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/) décide de mettre en place la proposition du Dr Michael Mina dès le 20 Janvier.«[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. 
+Mais finalement, après le temps de digestion nécessaire à la lenteur démocratique, le _nouveau_ gouvernement Bidens décide de mettre en place la proposition du Dr Michael Mina dès le 20 Janvier !
+> «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
 
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
-Les tests Antigen rapides bon marchés et sans prescription, augmentent massivement la détection des cas positifs. Ils permettent d'activer beaucoup rapidement l'isolement des personnes contagieuse, ce entreine un effondrement de la chaine de contagion et fait baisser le taux de reproduction Re. [La recherche a montré](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
-Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, les commerces et les lieux culturels, mais en même temps, il faut controller le virus pour éviter l'effondrement du système de santé.
+Les tests Antigen rapides bon marchés et sans prescription, augmentent massivement la détection des cas positifs. Ils permettent d'activer beaucoup rapidement l'isolement des personnes contagieuses, ce qui entraîne un effondrement de la chaîne de contagion et fait baisser mécaniquement le taux de reproduction Re. [La recherche a montrée](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
+> Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, les commerces et les lieux culturels, mais en même temps, il faut contrôler le virus pour éviter l'effondrement du système de santé.
 
-Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://www.rapidtests.org/expert-letter) sont d'accord: pour contrôler le virus nous avons besoin de millions de ces tests par jour.
+Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://www.rapidtests.org/expert-letter) sont d'accord: **pour contrôler le virus nous avons besoin de millions de ces tests par jour.**
 
 ![case](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609635150143-2RGHOBZNKZMUWGA374AX/ke17ZwdGBToddI8pDm48kMr7cO87uK4i5FGmPfgnAmJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0tLQ7Yw5rvbjD09fusQ6zruw_237OMvrlo6Pc0CJdbfdeTHYj9jtBJKhNQnMMHkZZQ/new_curve.png?format=750w)
 
