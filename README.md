@@ -7,11 +7,15 @@
 > Merci d'indiquer en commentaire les erreurs ou le manque de détails pour permettre a ce document d'atteindre une bonne qualité
 
 ## Qui est Michael Mina
-* (Epidemiology, Harvard T.H)
-* https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/
-* Dr. Michael Mina, MD, PhD is an Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
+* Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
+* il a publié de nombreux articles qui propose de controller la propagation du virus,
+   * puhttps://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/
+   * https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/
+   * https://www.youtube.com/watch?v=PYd-Q_CYmKA
 
-## Nous pouvons mettre fin à la pandémie AUJOURD'HUI
+## Que propose-t-il ?
+Nous pouvons mettre fin à la pandémie AUJOURD'HUI! Touos les outils sont disponibles pour controller le virus, le problème c'est qu'il y a beaucoup d'experts, et pas assez d'ingénieurs. Le rôle d'ingénieur c'est de résoudre des problèmes. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de tomber dans une source qui finalement se révèlerait considérée comme "complotiste". La meilleure décision, c'est d'attendre et de voir.
+
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
