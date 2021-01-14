@@ -9,7 +9,7 @@
 
 > Merci d'indiquer les erreurs ou le manque de détails pour permettre à ce document d'atteindre une qualité suffisante
 
-## Qui est Michael Mina
+## Qui est le Dr Michael Mina
 * Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
 * il a publié de nombreux articles, il propose de contrôler la propagation du virus d'une manière beaucoup plus efficace,
    * [hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina](https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/)
@@ -17,11 +17,11 @@
    * [youtube: Lockdown is not a solution, destroying small businesses is not a solution](https://www.youtube.com/watch?v=PYd-Q_CYmKA)
 
 ## Que propose-t-il ?
-**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est qu'il y a trop d'experts, trop de managers et trop de bureaucratie. Avec une formation de base d'ingénieur, le Dr Mina comprend bien l'utilité de cette compétence. C'est avec les connaissances validées par les scientifiques que les ingénieurs rendent possible ce qui était alors impossible (le vaccin mRNA est un bon exemple). Malheureusement un message qui présente une solution technique aussi simple a de la peine a convaincre, les journalistes ont peurs de prendre un chemin qui finalement se révélerait être une fausse route. Pour la plupart, la meilleure décision, c'est d'attendre et de voir.
+**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est qu'il y a trop d'experts, trop de managers et trop de bureaucratie. Avec une formation de base d'ingénieur, le Dr Mina comprend bien l'utilité de cette compétence. C'est avec les connaissances validées par les scientifiques que les ingénieurs rendent possible ce qui était alors impossible (le vaccin mRNA est un bon exemple). Malheureusement un message qui présente une solution technique aussi simple a de la peine a convaincre, les journalistes ont peut être peurs de prendre un chemin qui finalement se retourneraient contre eux. Pour la plupart, la meilleure décision, c'est d'attendre et de voir.
 
-Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. Comme dirait Dr Machin: [«today, democratie doesn't scale»](https://www.swissinfo.ch/eng/directdemocracy/opinion_-direct-democracy-isn-t-feasible-in-modern-societies-/41557818).
+Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. Comme dirait Dr Machin: [«today, democracy doesn't scale»](https://www.swissinfo.ch/eng/directdemocracy/opinion_-direct-democracy-isn-t-feasible-in-modern-societies-/41557818).
 
-Mais finalement, après le temps de digestion nécessaire à la lenteur démocratique, le _nouveau_ gouvernement Bidens décide de mettre en place la proposition du Dr Michael Mina dès le 20 Janvier !
+Mais finalement, après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est reconnu par le _nouveau_ gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
 > «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
 
