@@ -14,7 +14,7 @@
    * https://www.youtube.com/watch?v=PYd-Q_CYmKA
 
 ## Que propose-t-il ?
-**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour controller le virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Le rôle de l'ingénieur c'est de résoudre des problèmes avec les connaissances produites par les scientifiques. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de tomber dans une source qui finalement se révèlerait considérée comme "complotiste". La meilleure décision, c'est d'attendre et de voir.
+**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour controller le virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Le rôle de l'ingénieur c'est de résoudre des problèmes avec les connaissances produites par les scientifiques. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de tomber dans une source qui finalement se révèlerait être "fausse". La meilleure décision, c'est d'attendre et de voir.
 
 Finalement, le problème est peut être lié au temps démocratique, considéré aujourd'hui comme trop lent, générant trop d'erreurs, la démocratie est confrontée à la vitesse et l'horizontalitée sans frontière des échanges sur Internet. Comme dirait Machin: «today, démocratie doesn't scale».
 
