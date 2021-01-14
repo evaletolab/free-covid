@@ -66,7 +66,7 @@ La solution de l'équipe du Pr Michael Mina, consiste à renforcer les mesures d
 > For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
 
-# Une solution en 3 piliers
+## Une solution en 3 piliers
 
 Pour maintenir le taux de reproduction `Re` en dessous de 1.0 (et maintenir une propagation linéaire), on évite l'usage du Lockdown. Il faut respecter 3 piliers, et valoriser la responsabilité individuelle. 
 
