@@ -1,5 +1,6 @@
 
 
+
 **type: [specification](https://evaletolab.github.io/free-covid/)** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 30.12.2020** <br/>
 **Version 0.1** <br/>
@@ -14,7 +15,7 @@
    * https://www.youtube.com/watch?v=PYd-Q_CYmKA
 
 ## Que propose-t-il ?
-**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour controller le virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Le rôle de l'ingénieur c'est de résoudre des problèmes avec les connaissances produites par les scientifiques. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de tomber dans une source qui finalement se révèlerait être "fausse". La meilleure décision, c'est d'attendre et de voir.
+**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler le virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. La formation de base du Dr Mina est ingénieur, il en comprend bien le sens. Le rôle de l'ingénieur c'est de résoudre des problèmes avec les connaissances produites par les scientifiques. Les ingénieurs rendent possible ce qui est impossible. Malheureusement son message a de la peine a convaincre, les journalistes ont aussi peur de prendre un chemin qui finalement se révélerait être "complotiste". La meilleure décision, c'est d'attendre et de voir.
 
 Le problème est peut être lié au temps démocratique, le temps de digestion de l'information avant sa publication est dépassé par la vitesse et l'horizontalitée sans frontière des échanges sur Internet. Comme dirait Machin: «today, démocratie doesn't scale».
 
