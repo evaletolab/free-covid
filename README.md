@@ -52,6 +52,7 @@ Le Dr Mina explique que l'autorisation du type de tests rapides qui pourraient c
 ## Ce qui change avec la procédure actuelle 
 
 Un dépistage efficace couplé avec des mesures sanitaires simples, participent au maintient du taux de reproduction `Re` le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à, dès les premiers symptômes, contacter son médecin, l’hôpital ou toutes offres alternatives légales. A Genève il existe plusieurs solutions de test rapides comme par exemple avec m3-test.ch. Ce sont des solutions de désengorgement des centres médicaux, mais toutes nécessite une prescription ou un rendez-vous et  sans symptôme ils coûtent chers ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
+On trouve une très bonne présentation par Grant Sanderson [ici](https://www.youtube.com/watch?v=gxAaO2rsdIs&ab_channel=3Blue1Brown)
 
 On commence à le comprendre, le problème du virus ce n'est pas sa mortalité mais sa contagiosité. Un taux de reproduction au dessus de 1,0 engage un développement exponentiel qui implique la perte de contrôle. Ainsi, **Si** la valeur ([Ro](https://www.covid19.admin.ch/fr/repro/val) )  est en dessus de 1.0 **Alors** c'est la politique de **Lockdown** qui s'applique (et par effet domino, l'arrêt du fédéralisme et la mort de l'économie). 
 
