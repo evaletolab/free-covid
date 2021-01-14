@@ -81,13 +81,13 @@ Un test rapide doit être considéré si et seulement si, il est accessible part
 - le test pourrait être identifiable par un ID unique _(pour permettre un couplage avec une application, informer les personnes proches et s'assurer qu'il n'a pas été partagé)_ **[ajout personnel]**
 
 ## 2. Placer des tests dans tous les distributeurs de snack, dans les tabacs, les gares, les théâtres, etc
-Tous les lieux de considéré comme clusters poentiels; spectacles, restaurent, bistrots, commerces, clubs, etc,  pourraient être ouvertes si et seulement si, on est certains que les personnes contagieuses n'y entre pas. Avec des tests rapides, et une  application mobile on peut approcher cette certitude à presque 100%.
+Tous les lieux considérés comme clusters poentiels; spectacles, restaurant, bistrots, commerces, clubs, etc,  pourraient être ouvertes si et seulement si, on est certains que les personnes contagieuses n'y entre pas. Avec des tests rapides, et une  application mobile on peut approcher cette certitude à presque 100%.
 
 ## 3. En cas de test positif, on doit au moins s'isoler 
 En cas de test positif, il faut suivre la procédure actuelle. Mais cette méthode permet au moins, à ceux et celles qui ont peurs des répercussions, de rester anonymes et de protéger les autres en s'isolant les jours nécessaires. 
 
 ## 4. Faire une application plus pragmatique que SwissCovid
-Dans la mesure ou les lieux de considéré comme clusters poentiels sont ouverts au public, il peut y avoir un risque d'erreur et de contamination. Pourquoi ne pas utiliser une application mobile qui nous permettrait de contacter toutes les personnes qui étaient dans ce lieu a au moment ou la contamination était possible. Cette application pourrait régler deux problèmes:
+Dans la mesure ou les lieux considérés comme clusters poentiels sont ouverts au public, il peut y avoir un risque d'erreur et de contamination. Pourquoi ne pas utiliser une application mobile qui nous permettrait de contacter toutes les personnes qui étaient dans ce lieu a au moment ou la contamination était possible. Cette application pourrait régler deux problèmes:
 * informer de manière anonyme les personnes qui étaient ensemble dans un même lieu à un moment donné.
 * utiliser des bons d'achats dans les lieux qui souffrent de la basse de chiffre d'affaire.
 
