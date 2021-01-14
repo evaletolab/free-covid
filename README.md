@@ -87,9 +87,9 @@ Tous les lieux considérés comme clusters potentiels; spectacles, restaurant, b
 En cas de test positif, il faut suivre la procédure officielle. Mais cette méthode permet au moins, à ceux et celles qui ont peurs des répercussions, de rester anonymes et de protéger les autres en s'isolant les jours nécessaires. 
 
 ## 4. Faire une application mobile complémentaire
-Ce complément avec une application mobile ne figure pas directement dans l'approche du Dr Mina. Mais dans la mesure ou les lieux considérés comme clusters potentiels sont ouverts au public, il peut y avoir un risque d'erreur qui pourrait être corrigé par l'utilisation d'un logiciel qui respecte l’anonymat des utilisateurs. En effet, pourquoi ne pas utiliser une application mobile qui nous permettrait de contacter toutes les personnes qui étaient dans ce lieu a au moment ou la contamination était possible. Cette application pourrait régler deux problèmes:
+En complément aux tests rapides, une application mobile très simple pourrait être créer pour compléter le dépistage. Cette proposition ne fait pas partie de la proposition du Dr MinaMais, mais dans la mesure ou les lieux considérés comme des clusters potentiels seraient ouverts au public, il peut y avoir un risque d'erreur qui devrait être corrigé par l'utilisation d'un outil qui respecte l’anonymat des utilisateurs. En effet, pourquoi ne pas utiliser une application mobile qui permettrait de contacter toutes les personnes qui étaient dans un lieu au moment ou la contamination a été possible. Cette application pourrait régler deux problèmes:
 * informer de manière anonyme les personnes qui étaient dans un même lieu au même moment.
-* utiliser des bons d'achats dans les lieux qui souffrent de la basse de chiffre d'affaire.
-Cette dernière remarque est importante, car elle participe comme une incitation à installer l'application.
+* acheter et utiliser des bons d'achats dans les lieux qui souffrent de la baisse générale du chiffre d'affaire.
+
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
