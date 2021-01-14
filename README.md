@@ -11,7 +11,7 @@
 **Update 14.01.2020** <br/>
 **Version 0.4** <br/>
 
-NEWS: Après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est validé par le gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
+**NEWS:** Après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est validé par le gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
 «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
 
