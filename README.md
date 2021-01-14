@@ -78,7 +78,7 @@ Un test rapide doit être considéré si et seulement si, il est accessible part
 
 - le département fédérale doit valider cette stratégie,
 - le test doit être fiable, bon marché et accessible sans prescription et de manière anonyme,
-- le test pourrait être identifiable par un ID unique _(pour permettre un couplage avec une application, informer les personnes proches et s'assurer qu'il n'a pas été partagé)_ **[ajout personnel]**
+- le test pourrait être identifiable par un ID unique _(pour permettre un couplage avec une application, informer les personnes proches et s'assurer que le test n'est pas celui d'un autre)_ **[ajout personnel]**
 
 ## 2. Placer des tests dans tous les distributeurs de snack, dans les tabacs, les gares, les théâtres, etc
 Tous les lieux considérés comme clusters poentiels; spectacles, restaurant, bistrots, commerces, clubs, etc,  pourraient être ouvertes si et seulement si, on est certains que les personnes contagieuses n'y entre pas. Avec des tests rapides, et une  application mobile on peut approcher cette certitude à presque 100%.
