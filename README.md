@@ -71,7 +71,7 @@ Comme indiquer plus haut, la solution de l'équipe du Pr Michael Mina, consiste 
 
 ## Une solution en 4 piliers
 
-Pour maintenir le taux de reproduction `R0` en dessous de 1.0 _(maintenir une propagation linéaire)_, et éviter l'usage dévastateur du Lockdown. Il faut légaliser les tests rapides et aussi valoriser la responsabilité individuelle. 
+Pour maintenir le taux de reproduction `R0` en dessous de 1.0 _(approcher une propagation linéaire)_, et éviter l'usage dévastateur du Lockdown. Il faut légaliser les tests rapides et aussi valoriser la responsabilité individuelle. 
 
 ## 1. Légaliser le test rapide, bon marché que l'on peut effectué soit même 
 Un test rapide doit être considéré si et seulement si, il est accessible partout, sans prescription et à un coût marginal. Un test antigénique rapide basée sur détection de la structure virale (cf. protéine) est un complément au test PCR standard qui doit toujours être effectué en cas de réponse positive au test rapide ou simplement lors des premiers symptômes de la maladie.
@@ -88,8 +88,8 @@ En cas de test positif, il faut suivre la procédure officielle. Mais cette mét
 
 ## 4. Faire une application mobile complémentaire
 En complément aux tests rapides, une application mobile très simple pourrait être créer pour compléter le dépistage. Cette proposition ne fait pas partie de la proposition du Dr MinaMais, mais dans la mesure ou les lieux considérés comme des clusters potentiels seraient ouverts au public, il peut y avoir un risque d'erreur qui devrait être corrigé par l'utilisation d'un outil qui respecte l’anonymat des utilisateurs. En effet, pourquoi ne pas utiliser une application mobile qui permettrait de contacter toutes les personnes qui étaient dans un lieu au moment ou la contamination a été possible. Cette application pourrait régler deux problèmes:
-* informer de manière anonyme les personnes qui étaient dans un même lieu au même moment.
-* acheter et utiliser des bons d'achats dans les lieux qui souffrent de la baisse générale du chiffre d'affaire.
-
+* informer de manière anonyme les personnes qui étaient dans un même lieu au même moment,
+* effectuer un test rapide antigénique soit même depuis la maison,
+* intégrer un mécanisme de bons d'achats que l'on pourrait utiliser dans les lieux qui souffrent de la baisse générale du chiffre d'affaire.
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
