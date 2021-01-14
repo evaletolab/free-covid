@@ -2,6 +2,7 @@
 
 
 
+
 **type: [snythèse](https://evaletolab.github.io/free-covid/)** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 30.12.2020** <br/>
 **Version 0.1** <br/>
@@ -16,7 +17,7 @@
    * [youtube: Lockdown is not a solution, destroying small businesses is not a solution](https://www.youtube.com/watch?v=PYd-Q_CYmKA)
 
 ## Que propose-t-il ?
-**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Avec une formation de base d'ingénieur, le Dr Mina comprend bien son utilité. Avec les connaissances produites par les scientifiques, les ingénieurs rendent possible ce qui était impossible (le vaccin mRNA est un bon exemple). Malheureusement ce message a de la peine a convaincre, les journalistes ont peurs de prendre un chemin qui finalement se révélerait être "le terreau d'une position complotiste". Pour la plupart, la meilleure décision, c'est d'attendre et de voir.
+**«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Avec une formation de base d'ingénieur, le Dr Mina comprend bien l'utilité de cette compétence. C'est avec les connaissances validées par les scientifiques que les ingénieurs rendent possible ce qui était alors impossible (le vaccin mRNA est un bon exemple). Malheureusement un message qui présente une solution technique aussi simple a de la peine a convaincre, les journalistes ont peurs de prendre un chemin qui finalement se révélerait être une fausse route. Pour la plupart, la meilleure décision, c'est d'attendre et de voir.
 
 Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. Comme dirait Dr Machin: [«today, democratie doesn't scale»](https://www.swissinfo.ch/eng/directdemocracy/opinion_-direct-democracy-isn-t-feasible-in-modern-societies-/41557818).
 
@@ -27,22 +28,19 @@ Mais finalement, après le temps de digestion nécessaire à la lenteur démocra
 ### Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
-Les tests Antigen rapides bon marchés et sans prescription, augmentent massivement la détection des cas positifs. Ils permettent d'activer beaucoup rapidement l'isolement des personnes contagieuses, ce qui entraîne un effondrement de la chaîne de contagion et fait baisser mécaniquement le taux de reproduction Re. [La recherche a montrée](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
+Les tests antigéniques rapides bon marchés et sans prescription, augmentent massivement la détection des cas positifs. Ils permettent d'activer beaucoup rapidement l'isolement des personnes contagieuses, ce qui entraîne un effondrement de la chaîne de contagion et fait baisser mécaniquement le taux de reproduction Re. [La recherche a montrée](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
 > Pour vivre avec le virus, nous devons reprendre une vie normale, ouvrir les écoles, les commerces et les lieux culturels, mais en même temps, il faut contrôler le virus pour éviter l'effondrement du système de santé.
 
 Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://www.rapidtests.org/expert-letter) sont d'accord: **pour contrôler le virus nous avons besoin de millions de ces tests par jour.**
 
 ![case](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609635150143-2RGHOBZNKZMUWGA374AX/ke17ZwdGBToddI8pDm48kMr7cO87uK4i5FGmPfgnAmJ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0tLQ7Yw5rvbjD09fusQ6zruw_237OMvrlo6Pc0CJdbfdeTHYj9jtBJKhNQnMMHkZZQ/new_curve.png?format=750w)
 
-Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais ils ont l'avantage d'être très sensibles avec les personnes contagieuses. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus plusieurs semaines après la maladie)_
-
-* Les tests Antigen rapides détectent certaines protéines du virus (comme Spike) c'est à dire qu'ils sont sensibles à la structure du virus, alors que les tests PCR détectent les molécules de RNA dont les traces (cadavres du virus) existent plusieurs semaines après la période de contagion) 
-* **Les faux positifs** (détection de la maladie sans être malade); représentent 1% à 2% des tests, ce problème étant connu, la solution est prévue et intégrée avec certaines boites de tests. En effet, sur une boîte de 20 tests qui détectent un type de protéine, il y a toujours quelques tests marqué d'une autre couleur par exemple qui ciblent la détection d'une autre protéine, ce qui fait tomber l'erreur à 0.01% (le 1% du 1%)
-* **Les faux négatifs** (pas de détection alors qu'on est porteur du virus); La majorité de ces cas concernent  des fragments désactivés d'ARN viral, c'est à dire des cadavres de virus non contagieux. Il arrive aussi de manquer certaines personnes contagieuses, la plupart des interventions de santé publique, comme les masques ou la distanciation sociale, n'ont pas besoin d'être parfaites pour être utiles.
+Les tests antigéniques rapides ne détectent pas tous les cas positifs (~98%), mais ils ont l'avantage d'être très sensibles avec les personnes contagieuses. Le test antigénique n'est pas un concurrent du test PCR, c'est même un complément. Tous les tests ont leurs limitent et une zone de faux positifs. Par exemple, la détection PCR reste très efficace plusieurs semaines après la période de contagion avec des fragments désactivés d'ARN viral)_. En effet, ces fragment d'ARN sont les cadavres du virus après la maladie. Les tests rapides qui nous intéressent ont un autre mode opératoire, ils sont sensibles à la structure du virus (ex. la détection des la protéines Spike), ont ne parle pas des premières versions qui étaient sensibles aux anticorps développés par le système immunitaire.
+* **Les faux positifs** (détection sans qu'il y ait de virus); représentent 1% à 2% des tests, ce problème étant connu, la solution est prévue et intégrée avec certaines boites de tests. En effet, une boîte de 20 tests sensible a la protéine Spike contient toujours quelques tests en réserve qui ciblent la détection d'une autre protéine, ce qui fait chuter le taux d'erreur à 0.01% (le 1% du 1%)
+* **Les faux négatifs** (détection manquée du virus actif); Il arrive de manquer certaines personnes contagieuses, mais comme la plupart des interventions de santé publique, (cf. les masques ou la distanciation sociale), elles n'ont pas besoin d'être parfaites pour être utiles.
 
 ## Pourquoi ces tests ne sont pas disponibles
-Le Dr Mina explique que le type de tests rapides qui pourraient contrôler la propagation du virus s'est heurté à des obstacles réglementaires. Bien que certains tests rapides aient été approuvés, ils nécessitent généralement une prescription et ne sont généralement pas recommandés pour une utilisation asymptomatique. 
-Les entreprises pourraient produires des dizaines de millions de tests simples par jour, mais choisissent de ne pas le faire si elles ne sont pas certaines d'avoir une réglementation favorable.
+Le Dr Mina explique que l'autorisation du type de tests rapides qui pourraient contrôler la propagation du virus s'est heurté à des obstacles réglementaires. Bien que certains tests rapides aient été approuvés, ils nécessitent encore une prescription et ne sont généralement pas recommandés pour une utilisation asymptomatique.  Les entreprises pourraient produire des dizaines de millions de tests simples chaque jours, mais elles choisissent de ne pas le faire tant que la réglementation n'est pas favorable.
 
 ## Ce qui change avec la procédure actuelle 
 
@@ -60,7 +58,7 @@ Lorsqu'on développe la chaîne de contrôle du virus, on constate que c'est ave
 La solution de l'équipe du Pr Michael Mina, consiste à renforcer les mesures de dépistage.  **Le dépistage est un problème technique qui peut être amélioré avec des ordres de grandeurs d'un facteur 100**
 
 # Un problème de vitesse
-La proposition du Professeur Michael Mina souligne que le principale problème du dépistage actuel c'est la faible détection  ( conséquence des barières administratives et des coûts). Selon lui, le problème de la déection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il propose de tout essayer pour éviter le Lockdown qui doit être uniquement une solution d'urgence. L'hypothèse du Pr. Mina est simple à mettre en oeuvre, il faut suivre la zone contagieuse du virus avec la plus petite latence possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent, elles sont d'excellentes qualités et elles permettent de prendre le control en seulement 30 jours du taux de reproduction.
+La proposition du Professeur Michael Mina souligne que le principale problème du dépistage actuel c'est la faible détection  ( conséquence des barrières administratives et des coûts). Selon lui, le problème de la détection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il propose de tout essayer pour éviter le Lockdown qui doit être uniquement une solution d'urgence. L'hypothèse du Pr. Mina est simple à mettre en oeuvre, il faut suivre la zone contagieuse du virus avec la plus petite latence possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent, elles sont d'excellentes qualités et elles permettent de prendre le control en seulement 30 jours du taux de reproduction.
 
 > For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
@@ -70,14 +68,10 @@ La proposition du Professeur Michael Mina souligne que le principale problème d
 
 # Une solution en 3 piliers
 
-Pour maintenir le taux de reproduction Re en dessous de 1.0 (et de tendre vers une propagation linéaire), on évite l'usage du Lockdown. Il faut respecter 3 piliers,
-- *Pas de lockdown;* Ce n'est pas l'économie qui doit être arrêtée, c'est le virus,
-- *créer une carte "météo" du virus;* Ce n'est pas la population qui doit être controlée, c'est le virus
-- *Une incitation finnancière individualisée;* L'état ne peut pas arroser, il doit compenser ceux qui ne peuvent pas travailler
-
+Pour maintenir le taux de reproduction Re en dessous de 1.0 (et maintenir une propagation linéaire), on évite l'usage du Lockdown. Il faut respecter 3 piliers,
 
 ## 1. Légaliser le test rapide, bon marché et sans prescription 
-Un test rapide est considéré si et seulement si il est accesssible simplement parout et sans restriction à toute la population à coût un marginal. Un test Antigen rapide est basée sur détection de la structure virale (protéine), il n'est pas question de mesurer les anticorps résiduels de la suite d'une infection. Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptomes de la maladie.
+Un test rapide est considéré si et seulement si il est accessible simplement partout et sans restriction à toute la population à coût un marginal. Un test antigénique rapide basée sur détection de la structure virale (protéine),  Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptômes de la maladie.
 
 - le département fédérale doit valider cette stratégie sur la base du travail de Michael Mina ( https://www.rapidtests.org)
 - le test doit être fiable, bon marché et accessible anonymement,
@@ -112,11 +106,6 @@ En se concentrant sur les clusters, l'application permet également d'échanger 
 3. Dans chacun de ces lieux, il est possible d'utiliser les BONs depuis l'application mobile.
 
 Avec le test rapide Antigen bon marché, et utilisable à domicile, la chaine de contagion peut être anéantie sans avaoir au recours du lockdown centralisé et difficile à justifier. 
-
-
-
-### Support or Contact
-* [questions et communications](../../discussions),,, 
 
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
