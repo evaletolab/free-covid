@@ -11,9 +11,9 @@
 ## Qui est Michael Mina
 * Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School
 * il a publié de nombreux articles, il propose de contrôler la propagation du virus d'une manière beaucoup plus efficace,
-   * https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/
-   * https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/
-   * https://www.youtube.com/watch?v=PYd-Q_CYmKA
+   * [hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina](https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/)
+   * [medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
+   * [youtube: Lockdown is not a solution, destroying small businesses is not a solution](https://www.youtube.com/watch?v=PYd-Q_CYmKA)
 
 ## Que propose-t-il ?
 **«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus, le problème c'est qu'il y a trop d'experts, trop de managers et pas assez d'ingénieurs. Avec une formation de base d'ingénieur, le Dr Mina comprend bien son utilité. Avec les connaissances produites par les scientifiques, les ingénieurs rendent possible ce qui était impossible (le vaccin mRNA est un bon exemple). Malheureusement ce message a de la peine a convaincre, les journalistes ont peurs de prendre un chemin qui finalement se révélerait être "le terreau d'une position complotiste". Pour la plupart, la meilleure décision, c'est d'attendre et de voir.
