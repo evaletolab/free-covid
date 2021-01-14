@@ -37,26 +37,27 @@ Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://ww
 Les tests Antigen rapides ne détectent pas tous les cas positifs (~98%), mais ils ont l'avantage d'être très sensibles avec les personnes contagieuses. _(A l'inverse la détection PCR peut détecter des restes d'ARN du virus plusieurs semaines après la maladie)_
 
 * Les tests Antigen rapides détectent certaines protéines du virus (comme Spike) c'est à dire qu'ils sont sensibles à la structure du virus, alors que les tests PCR détectent les molécules de RNA dont les traces (cadavres du virus) existent plusieurs semaines après la période de contagion) 
-* Les faux positifs, (érreur de détection de la maladie) représentent 1% à 2% des tests, ce problème étant connu, la solution est prévue et intégrée avec la boite de tests. En effet, sur une boîte de 20 tests qui détectent la protéine Spike, il y a toujours quelques tests qui détectent une autre protéine, ce qui fait tomber l'erreur à 0.01% (le 1% du 1%) 
+* **Les faux positifs** (détection de la maladie sans être malade); représentent 1% à 2% des tests, ce problème étant connu, la solution est prévue et intégrée avec certaines boites de tests. En effet, sur une boîte de 20 tests qui détectent un type de protéine, il y a toujours quelques tests marqué d'une autre couleur par exemple qui ciblent la détection d'une autre protéine, ce qui fait tomber l'erreur à 0.01% (le 1% du 1%)
+* **Les faux négatifs** (pas de détection alors qu'on est porteur du virus); La majorité de ces cas concernent  des fragments désactivés d'ARN viral, c'est à dire des cadavres de virus non contagieux. Il arrive aussi de manquer certaines personnes contagieuses, la plupart des interventions de santé publique, comme les masques ou la distanciation sociale, n'ont pas besoin d'être parfaites pour être utiles.
 
+## Pourquoi ces tests ne sont pas disponibles
+Le Dr Mina explique que le type de tests rapides qui pourraient contrôler la propagation du virus s'est heurté à des obstacles réglementaires. Bien que certains tests rapides aient été approuvés, ils nécessitent généralement une prescription et ne sont généralement pas approuvés pour une utilisation asymptomatique. 
+Les entreprises pourraient effectuer des dizaines de millions de tests simples par jour, mais choisissent de ne pas le faire parce qu'elles ne sont pas certaines de la réglementation et n'obtiennent pas d'incitation de la part du gouvernement.
 
 ## Ce qui change avec la procédure actuelle 
 
-L'objectif d'un dépistage efficace participe au maintient du taux de reproduction le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à contacter son médecin, l'hopital cantonal ou toutes offres alternatives légales dès les premiers symptômes. A Genève il existe plusieurs solutions de test rapide comme par exemple avec m3-test.ch. Ce sont des solutions de désengorgement des centres médicaux, mais il faut quand même prendre rendez-vous, patienter, et sans symptôme il faut payer une facture non négligeable ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
+Un dépistage efficace couplé avec des mesures sanitaires simples, participent au maintient du taux de reproduction le plus bas possible. La solution de dépistage utilisée en Suisse comme en Europe consiste à, dès les premiers symptômes, contacter son médecin, l’hôpital ou toutes offres alternatives légales. A Genève il existe plusieurs solutions de test rapides comme par exemple avec m3-test.ch. Ce sont des solutions de désengorgement des centres médicaux, mais toutes nécessite une prescription, un rendez-vous et avec ou sans symptôme ils coûtent chers ([src](https://www.bag.admin.ch/bag/fr/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/testen.html#2051828467)). 
 
+On commence à le comprendre, le problème du virus ce n'est pas sa mortalité, c'est sa contagiosité. Un taux de reproduction au dessus de 1,0 accentue le développement exponentiel en laisse moins de temps. 
+Aujourd'hui **Si** la valeur ([Ro](https://www.covid19.admin.ch/fr/repro/val) )  est en dessus de 1.0 **Alors** c'est la politique de **Lockdown** qui s'applique (et le court-circuit du fédéralisme) . 
 
-## Re, l'indicateur de propagation
-L'indicateur principal qui permet de suivre l'épidémie, c'est la valeur du nombre de reproduction `Re` ([Ro](https://www.covid19.admin.ch/fr/repro/val) ) qui, s'il est en dessus de 1.0 `Re > 1.0` alors c'est la politique de Lockdown qui s'applique (et le fédéralisme qui est sur pause) . 
-
-## Le control du virus, en résumer
-C'est l'adition des mesures qui permettent de faire baisser la propagation du virus. Lorsque les autres mesures ne sont pas suffisament efficace, alors il reste la dernière mesure, le Lockdow.
+C'est l'addition de mesures qui permettent de faire baisser la propagation du virus. Et lorsque toutes les premières mesures ne sont pas assez efficace, alors il reste le Lockdow.
 * **0)** les mesures barrières (masque, hygiène et distance), 
-* **1)** le dépistage (tests et SwissCovid), 
+* **1)** le dépistage (SwissCovid et tests), **⇐ c'est ici qu'on doit agir**
 * **2)** l'isolation, 
-* **3)** l'indicateur du taux de reproduction `Re` et 
-* **4)** le Lockdown _(bombe atomique)_. 
+* **3)** le Lockdown _(bombe atomique)_. 
 
-La solution de l'équipe du Pr Michael Mina, consiste à renforcer les mesures de depistage.  **Le dépistage est un problème technique qui peut être amélioré avec plusieurs ordres de grandeurs**
+La solution de l'équipe du Pr Michael Mina, consiste à renforcer les mesures de dépistage.  **Le dépistage est un problème technique qui peut être amélioré avec des ordres de grandeurs d'un facteur 100**
 
 # Un problème de vitesse
 La proposition du Professeur Michael Mina souligne que le principale problème du dépistage actuel c'est la faible détection  ( conséquence des barières administratives et des coûts). Selon lui, le problème de la déection rapide n'est pas un problème scientifique, ou sanitaire, c'est un problème d'ingénieur. Il propose de tout essayer pour éviter le Lockdown qui doit être uniquement une solution d'urgence. L'hypothèse du Pr. Mina est simple à mettre en oeuvre, il faut suivre la zone contagieuse du virus avec la plus petite latence possible. En déployant des tests rapides, bon marchés (*<= 5 fr*), sans prescription, on augmente les chances te controler la reproduction du virus. Selon Michael Mina, les solutions techniques existent, elles sont d'excellentes qualités et elles permettent de prendre le control en seulement 30 jours du taux de reproduction.
