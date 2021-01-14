@@ -18,7 +18,7 @@
    * [hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina](https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/)
    * [medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
-[![Michael Mina](https://img.youtube.com/vi/PYd-Q_CYmKA/0.jpg)
+![Michael Mina](https://img.youtube.com/vi/PYd-Q_CYmKA/0.jpg)
 **[youtube => Lockdown is not a solution, destroying small businesses is not a solution](https://www.youtube.com/watch?v=PYd-Q_CYmKA)** <br/>
 
 ## Que propose-t-il ?
