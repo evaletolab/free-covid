@@ -12,12 +12,16 @@
 
 > Merci de m'indiquer les erreurs ou le manque de détails pour permettre à ce document d'atteindre une qualité suffisante
 
+NEWS **Finalement**, après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est validé par le gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
+> «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
+
+
 ## Qui est le Dr Michael Mina
 * Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School 
 * Il est aussi Docteur en phylosophie et ingénieur ([linkedin](https://www.linkedin.com/in/michael-mina-711918113/))
 * il a publié de nombreux articles, il propose de contrôler la propagation du virus d'une manière beaucoup plus efficace,
    * [hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina](https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/)
-   * [medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
+* [twitter/@michaelmina_lab](https://twitter.com/michaelmina_lab)
 
 ![Michael Mina](https://img.youtube.com/vi/PYd-Q_CYmKA/0.jpg)
 
@@ -27,9 +31,6 @@
 **«Nous pouvons mettre fin à la pandémie AUJOURD'HUI!»** Selon le Dr Mina, Tous les outils sont disponibles pour contrôler la propagation du virus. Le problème c'est la méthode inédite, elle ne trouve pas de place dans un univers ou les bureaucrates et les experts se renvoient la balle des responssabilités. Mais le Dr Mina n'abandonne pas, avec une formation de base d'ingénieur, le Dr Mina a un certain goût, c'est même une admiration, à la résolution de problèmes pratiques. «C'est avec les connaissances validées par les scientifiques que les ingénieurs rendent possible ce qui était alors impossible». Malheureusement une solution technique hors standard pour résoudre un problème sanitaire dans l'urgence, a de la peine a convaincre. Même les journalistes ont peurs de suivre une route qui  pourraient se retourner contre eux. Pour la plupart, la meilleure décision, c'est d'attendre et de voir qui va bouger le premier.
 
 Le problème est aussi peut être lié a ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéantie par la vitesse et l’horizontalité sans frontière des échanges sur Internet. «Democracy doesn't scale with Internet», mais ca c'est une autre histoire.
-
-**Finalement**, après des mois de travail avec les différents groupes d'experts et scientifiques, le travail du Dr Mina est reconnu par le _nouveau_ gouvernement Bidens qui décide de mettre en place sa proposition dès le 20 Janvier !
-> «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par un minimum de 100x plus de tests qu'aujourd'hui. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
 Aujourd'hui c'est le moment d'évaluer son travail pour l'appliquer en Suisse.
 
