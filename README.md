@@ -71,7 +71,7 @@ La solution de l'équipe du Pr Michael Mina, consiste à renforcer les mesures d
 
 ## Une solution en 3 piliers
 
-Pour maintenir le taux de reproduction `Re` en dessous de 1.0 (et maintenir une propagation linéaire), on évite l'usage du Lockdown. Il faut respecter 3 piliers, et valoriser la responsabilité individuelle. 
+Pour maintenir le taux de reproduction `Re` en dessous de 1.0 (et maintenir une propagation linéaire), et éviter l'usage dévastateur du Lockdown. Il faut légaliser  et valoriser la responsabilité individuelle. 
 
 ## 1. Légaliser le test rapide, bon marché et sans prescription 
 Un test rapide est considéré si et seulement si il est accessible simplement partout et sans restriction à toute la population à coût un marginal. Un test antigénique rapide basée sur détection de la structure virale (protéine),  Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptômes de la maladie.
