@@ -6,7 +6,7 @@
 
 
 
-**type: [synthèse](https://evaletolab.github.io/free-covid/)** et traduction de [rapidtests.org](https://www.rapidtests.org/) <br/>
+**type: [synthèse](https://evaletolab.github.io/free-covid/)** et traduction partielle de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 14.01.2020** <br/>
 **Version 0.4** <br/>
 
