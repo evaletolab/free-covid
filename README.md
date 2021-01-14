@@ -69,22 +69,27 @@ La solution de l'équipe du Pr Michael Mina, consiste à renforcer les mesures d
 > For an effective Covid filter that will stop this pandemic, we need tests that can enable regimens that will capture most infections while they are still infectious. These tests exist today in the form of rapid lateral-flow antigen tests, and rapid lateral-flow tests based on CRISPR gene-editing technology are on the horizon. Such tests are cheap (<$5), can be produced in the tens of millions or more per week, and could be performed at home, opening the door to effective Covid filter regimens ([source](https://www.nejm.org/doi/full/10.1056/NEJMp2025631))
 
 
-## Une solution en 3 piliers
+## Une solution en 4 piliers
 
-Pour maintenir le taux de reproduction `Re` en dessous de 1.0 (et maintenir une propagation linéaire), et éviter l'usage dévastateur du Lockdown. Il faut légaliser  et valoriser la responsabilité individuelle. 
+Pour maintenir le taux de reproduction `Re` en dessous de 1.0 (propagation linéaire), et éviter l'usage dévastateur du Lockdown. Il faut légaliser les tests rapides et aussi valoriser la responsabilité individuelle. 
 
 ## 1. Légaliser le test rapide, bon marché et sans prescription 
-Un test rapide est considéré si et seulement si il est accessible simplement partout et sans restriction à toute la population à coût un marginal. Un test antigénique rapide basée sur détection de la structure virale (protéine),  Le test rapide n'invalide pas le test PCR qui doit toujours être effectué en cas de réponse positive au test rapide ou lors des premiers symptômes de la maladie.
+Un test rapide doit être considéré si et seulement si, il est accessible partout, sans prestriction et à un coût un marginal. Un test antigénique rapide basée sur détection de la structure virale (cf. protéine) est un complément au test PCR standard qui doit toujours être effectué en cas de réponse positive au test rapide ou simplement lors des premiers symptômes de la maladie.
 
-- le département fédérale doit valider cette stratégie sur la base du travail de Michael Mina ( https://www.rapidtests.org)
-- le test doit être fiable, bon marché et accessible anonymement,
-- le test pourrait être identifiable par un ID unique _(pour permettre un couplage avec une application, informer les personnes proches et s'assurer qu'il n'est pas partagé)_
+- le département fédérale doit valider cette stratégie,
+- le test doit être fiable, bon marché et accessible sans prescription et de manière anonyme,
+- le test pourrait être identifiable par un ID unique _(pour permettre un couplage avec une application, informer les personnes proches et s'assurer qu'il n'a pas été partagé)_ **[ajout personnel]**
 
-## 2. Placer des distributeurs partout, tabacs, gares, théâtres, etc
-Toutes les zones à risques, spectacles, restaurent, bistrots, commerçants, etc,  pourraient être ouvertes si on est certains que les personnes contagieuses n'y entre pas. Et avec des tests rapides, et une date de test, on peut approcher cette certitude à presque 100%. 
+## 2. Placer des tests dans tous les distributeurs de snack, dans les tabacs, les gares, les théâtres, etc
+Tous les lieux de considéré comme clusters poentiels; spectacles, restaurent, bistrots, commerces, clubs, etc,  pourraient être ouvertes si et seulement si, on est certains que les personnes contagieuses n'y entre pas. Avec des tests rapides, et une  application mobile on peut approcher cette certitude à presque 100%.
 
 ## 3. En cas de test positif, on doit au moins s'isoler 
 En cas de test positif, il faut suivre la procédure actuelle. Mais cette méthode permet au moins, à ceux et celles qui ont peurs des répercussions, de rester anonymes et de protéger les autres en s'isolant les jours nécessaires. 
+
+## 4. Faire une application plus pragmatique que SwissCovid
+Dans la mesure ou les lieux de considéré comme clusters poentiels sont ouverts au public, il peut y avoir un risque d'erreur et de contamination. Pourquoi ne pas utiliser une application mobile qui nous permettrait de contacter toutes les personnes qui étaient dans ce lieu a au moment ou la contamination était possible. Cette application pourrait régler deux problèmes:
+* informer de manière anonyme les personnes qui étaient ensemble dans un même lieu à un moment donné.
+* utiliser des bons d'achats dans les lieux qui souffrent de la basse de chiffre d'affaire.
 
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
