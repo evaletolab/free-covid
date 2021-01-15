@@ -64,7 +64,7 @@ Pour les curieux, on trouve une très bonne présentation [[de simulation d'une 
 
 A force de pédagogie, on commence à comprendre, le problème du virus ce n'est pas sa mortalité mais sa contagiosité. Un taux de reproduction au-dessus de 1,0 engage un développement exponentiel des cas positifs qui implique la perte de contrôle sanitaire. Ainsi, **Si** la valeur de ([R0](https://www.covid19.admin.ch/fr/repro/val) )  est en dessus de 1.0 **Alors** c'est la politique de **Lockdown** qui s'applique (et par effet domino, l'arrêt du fédéralisme et la mort de l'économie). 
 
-C'est la panique, on ne contrôle pas le taux de reproduction et  à plusieurs reprises, le gouvernement a été forcé d'user  de la pratique du Lockdown brutale et discriminatoire. On ne peut pas mettre en concurrence la mort des PME, avec la mort des personnes à risques. Ces deux groupes doivent être protégés. 
+C'est la panique, on ne contrôle pas le taux de reproduction et  à plusieurs reprises, le gouvernement a été forcé d'user  de la pratique du Lockdown brutale et discriminatoire. On met en concurrence la mort des PME, avec la mort des personnes à risques alors que ces deux groupes doivent être protégés. 
 
 Le Dr Mani, propose une solution simple qui a de bonnes chances de reprendre le contrôle de la propagation et ainsi permet d'éviter le solution du Bazooka. Il faut suivre la zone contagieuse du virus avec la plus petite latence possible. En déployant des tests rapides, bon marché (*<= 5 fr*) et sans prescription, on prend le contrôle de la reproduction du virus.
 * **0)** les mesures barrières (masque, hygiène et distance), 
