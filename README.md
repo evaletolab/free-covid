@@ -98,5 +98,7 @@ En complément aux tests rapides, une application mobile très simple pourrait �
 * demander aux personnes concernés d'effectuer un test rapide antigénique depuis la maison,
 * intégrer un mécanisme de bons d'achats (comme incitation a utiliser l'application - que l'on pourrait utiliser dans les lieux qui souffrent de la baisse générale du chiffre d'affaires.
 
+La principale différence avec SwissCovid, c'est que l'on remplace le traçage de téléphone à téléphone (à l'aide du bluetooth) par un traçage de cluster en cluster (un cluster étant un lieu a risque qui nécessite le traçage anonyme). 
+
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
 <br/><sub>_(photo d'exemple, [ce ne sont pas des test rapides](https://twitter.com/marctoronto/status/1341249009692848128))_</sub>
