@@ -7,7 +7,7 @@
 
 **type: [opinion](https://evaletolab.github.io/free-covid/)** et traduction partielle de [rapidtests.org](https://www.rapidtests.org/) <br/>
 **Update 15.01.2020** <br/>
-**Version 0.5** <br/>
+**Version 0.6** <br/>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><sub>Mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.</sub><br/>
 
 **NEWS:** Après des mois de travail avec les différents groupes d'experts et scientifiques, la proposition du Dr Mina est validée par le gouvernement Bidens qui décide de la mettre en place dès le 20 Janvier !
