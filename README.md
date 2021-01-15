@@ -33,8 +33,6 @@
 
 Le problème est aussi peut être lié à ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéanti par la vitesse et l’horizontalité sans frontière des échanges sur Internet. «Democracy doesn't scale with Internet», mais ça c'est une autre histoire.
 
-Aujourd'hui c'est le moment d'évaluer son travail pour l'appliquer en Suisse. Une solution antigénique testée à San-Francisco avec un résultat très positif,  [BinaxNOW](https://abbott.mediaroom.com/2020-12-16-Abbotts-BinaxNOW-COVID-19-Rapid-Test-Receives-FDA-Emergency-Use-Authorization-for-First-Virtually-Guided-At-Home-Rapid-Test-Using-eMeds-Digital-Health-Platform)
-
 
 ## Les tests rapides, bon marché et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
@@ -85,7 +83,7 @@ Pour maintenir le taux de reproduction `R0` en dessous de 1.0 _(approcher une pr
 Un test rapide doit être considéré si et seulement si, il est accessible partout, sans prescription et à un coût marginal. Un test antigénique rapide basée sur détection de la structure virale (cf. protéine) est un complément au test PCR standard qui doit toujours être effectué en cas de réponse positive au test rapide ou simplement lors des premiers symptômes de la maladie.
 
 - le département fédérale doit valider cette stratégie,
-- le test doit être fiable, bon marché et accessible sans prescription et de manière anonyme,
+- le test doit être fiable, bon marché et accessible sans prescription et de manière anonyme. Aujourd'hui c'est le moment d'évaluer son travail pour l'appliquer en Suisse. Une solution antigénique testée à San-Francisco avec un résultat très positif,  [BinaxNOW](https://abbott.mediaroom.com/2020-12-16-Abbotts-BinaxNOW-COVID-19-Rapid-Test-Receives-FDA-Emergency-Use-Authorization-for-First-Virtually-Guided-At-Home-Rapid-Test-Using-eMeds-Digital-Health-Platform)
 - _(le test pourrait être identifiable par un ID unique pour permettre un couplage avec une application, informer les personnes proches et s'assurer que le test n'est pas celui d'un autre)_ **[remarque personnelle]**
 
 ## 2. Placer des tests dans tous les distributeurs de snack, dans les tabacs, les gares, les théâtres, etc
@@ -95,10 +93,10 @@ Tous les lieux considérés comme clusters potentiels; spectacles, restaurants, 
 En cas de test positif, il faut suivre la procédure officielle. Mais cette méthode permet au moins, à ceux et celles qui ont peur des répercussions, de rester anonymes et de protéger les autres en s'isolant les jours nécessaires. 
 
 ## 4. Faire une application mobile complémentaire
-En complément aux tests rapides, une application mobile très simple pourrait être créée pour compléter le dépistage. Cette proposition ne fait pas partie de la proposition du Dr Mina, mais dans la mesure où les lieux considérés comme des clusters potentiels seraient ouverts au public, il peut y avoir un risque d'erreur qui devrait être corrigé par l'utilisation d'un outil qui respecte l’anonymat des utilisateurs. En effet, pourquoi ne pas utiliser une application mobile qui permettrait de contacter toutes les personnes qui étaient dans un lieu où la contamination a été possible. Cette application pourrait régler deux problèmes:
-* informer de manière anonyme les personnes qui étaient dans un même lieu au même moment,
-* effectuer un test rapide antigénique soit même depuis la maison,
-* intégrer un mécanisme de bons d'achats que l'on pourrait utiliser dans les lieux qui souffrent de la baisse générale du chiffre d'affaires.
+En complément aux tests rapides, une application mobile très simple pourrait être créée pour améliorer le dépistage. Cette proposition ne fait pas partie de la proposition du Dr Mina, mais dans la mesure où les lieux considérés comme des clusters potentiels seraient ouverts au public, il pourrait y avoir un risque d'erreur qui devrait être corrigé. En effet, pourquoi ne pas utiliser une application mobile qui respecte l’anonymat des utilisateurs et qui permettrait de contacter tous les téléphones qui se sont trouvé dans un même lieu au même moment. Cette application pourrait régler plsuieurs problèmes:
+* informer de manière anonyme les téléphones qui étaient dans un même lieu au même moment,
+* leur demander d'effectuer un test rapide antigénique depuis la maison,
+* intégrer un mécanisme de bons d'achats (comme incitation a utiliser l'application - que l'on pourrait utiliser dans les lieux qui souffrent de la baisse générale du chiffre d'affaires.
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
 <br/><sub>_(photo d'exemple, [ce ne sont pas des test rapides](https://twitter.com/marctoronto/status/1341249009692848128))_</sub>
