@@ -6,8 +6,8 @@
 
 
 **type: [synthèse](https://evaletolab.github.io/free-covid/)** et traduction partielle de [rapidtests.org](https://www.rapidtests.org/) <br/>
-**Update 14.01.2020** <br/>
-**Version 0.4** <br/>
+**Update 15.01.2020** <br/>
+**Version 0.5** <br/>
 
 **NEWS:** Après des mois de travail avec les différents groupes d'experts et scientifiques, la proposition du Dr Mina est validée par le gouvernement Bidens qui décide de la mettre en place dès le 20 Janvier !
 «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par des milions de tests quotidiens. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
