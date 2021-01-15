@@ -49,8 +49,8 @@ Les tests antigéniques rapides ne détectent pas tous les cas positifs (~98%), 
 * **Les faux négatifs** (détection manquée du virus actif); Il arrive de manquer certaines personnes contagieuses, mais comme la plupart des interventions de santé publique, (cf. les masques ou la distanciation sociale), elles n'ont pas besoin d'être parfaites pour être utiles.
 
 
-![PCR](https://user-images.githubusercontent.com/1422935/104707265-76dfa080-571c-11eb-9255-6838bddf7789.png) [@FaheemYounus](https://twitter.com/FaheemYounus/status/1348856368141373440)
-<br/><sub> Problème des tests PCR qui détectes des fragments désactivés d'ARN viral bien après la période de contagion</sub>
+![PCR](https://user-images.githubusercontent.com/1422935/104707414-a7bfd580-571c-11eb-89ae-636b6e938d2f.png) 
+<br/><sub> Problème des tests PCR qui détectes des fragments désactivés d'ARN viral bien après la période de contagion [@FaheemYounus](https://twitter.com/FaheemYounus/status/1348856368141373440)</sub>
 
 
 ## Pourquoi ces tests ne sont pas disponibles
