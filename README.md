@@ -80,7 +80,7 @@ Comme indiqué plus haut, la solution de l'équipe du Pr Michael Mina, consiste 
 
 Pour maintenir le taux de reproduction `R0` en dessous de 1.0 _(approcher une propagation linéaire)_, et éviter l'usage dévastateur du Lockdown. Il faut légaliser les tests rapides et aussi valoriser la responsabilité individuelle. 
 
-## 1. Légaliser le test rapide, bon marché que l'on peut effectué soit même 
+## 1. Légaliser le test rapide, bon marché que l'on peut effectuer à la maison 
 Un test rapide doit être considéré si et seulement si, il est accessible partout, sans prescription et à un coût marginal. Un test antigénique rapide basée sur détection de la structure virale (cf. protéine) est un complément au test PCR standard qui doit toujours être effectué en cas de réponse positive au test rapide ou simplement lors des premiers symptômes de la maladie.
 
 - le département fédérale doit valider cette stratégie,
