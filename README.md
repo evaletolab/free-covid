@@ -32,7 +32,8 @@
 
 Le problème est aussi peut être lié à ce qu'on peut appeler une disruption de nos structures démocratiques. Le temps de digestion de l'information pour produire des arbitrages est anéanti par la vitesse et l’horizontalité sans frontière des échanges sur Internet. «Democracy doesn't scale with Internet», mais ça c'est une autre histoire.
 
-Aujourd'hui c'est le moment d'évaluer son travail pour l'appliquer en Suisse.
+Aujourd'hui c'est le moment d'évaluer son travail pour l'appliquer en Suisse. Une solution antigénique testée à San-Francisco avec un résultat très positif,  [BinaxNOW](https://abbott.mediaroom.com/2020-12-16-Abbotts-BinaxNOW-COVID-19-Rapid-Test-Receives-FDA-Emergency-Use-Authorization-for-First-Virtually-Guided-At-Home-Rapid-Test-Using-eMeds-Digital-Health-Platform)
+
 
 ## Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
@@ -47,7 +48,6 @@ Plus de [50 scientifiques et spécialistes des maladies infectieuses](https://ww
 Les tests antigéniques rapides ne détectent pas tous les cas positifs (~98%), mais ils ont l'avantage d'être très sensibles avec les personnes contagieuses. Le test antigénique n'est pas un concurrent du test PCR, c'est même un complément. Tous les tests ont leurs limites et une zone de faux positifs. Par exemple, la détection PCR reste très efficace plusieurs semaines après la période de contagion avec des fragments désactivés d'ARN viral)_. En effet, ces fragments d'ARN sont les cadavres du virus après la maladie. Les tests rapides qui nous intéressent ont un autre mode opératoire, ils sont sensibles à la structure du virus _(la détection de la protéine Spike)_ , on ne parle pas ici des premières versions qui étaient sensibles aux anticorps développés par le système immunitaire.
 * **Les faux positifs** (détection sans qu'il y ait de virus); représentent 1% à 2% des tests, ce problème étant connu, la solution est prévue et intégrée avec certaines boites de tests. En effet, une boîte de 20 tests sensible à la protéine Spike contient toujours quelques tests en réserve qui ciblent la détection d'une autre protéine, ce qui fait chuter le taux d'erreur à 0.01% (le 1% du 1%)
 * **Les faux négatifs** (détection manquée du virus actif); Il arrive de manquer certaines personnes contagieuses, mais comme la plupart des interventions de santé publique, (cf. les masques ou la distanciation sociale), elles n'ont pas besoin d'être parfaites pour être utiles.
-* La solution antigénique testée à San-Francisco avec un résultat très positif,  [BinaxNOW](https://abbott.mediaroom.com/2020-12-16-Abbotts-BinaxNOW-COVID-19-Rapid-Test-Receives-FDA-Emergency-Use-Authorization-for-First-Virtually-Guided-At-Home-Rapid-Test-Using-eMeds-Digital-Health-Platform)
 
 ![PCR](https://user-images.githubusercontent.com/1422935/104707414-a7bfd580-571c-11eb-89ae-636b6e938d2f.png) 
 <br/><sub> Problème des tests PCR qui détectes des fragments désactivés d'ARN viral bien après la période de contagion [source @michaelmina_lab, @FaheemYounus]</sub>
