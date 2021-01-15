@@ -93,4 +93,4 @@ En complément aux tests rapides, une application mobile très simple pourrait �
 * intégrer un mécanisme de bons d'achats que l'on pourrait utiliser dans les lieux qui souffrent de la baisse générale du chiffre d'affaire.
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
-_(photo d'exemple, [se ne sont pas des test rapides](https://twitter.com/marctoronto/status/1341249009692848128)
+<br/><small>_(photo d'exemple, [se ne sont pas des test rapides](https://twitter.com/marctoronto/status/1341249009692848128)_</small>
