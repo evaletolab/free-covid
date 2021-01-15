@@ -11,14 +11,15 @@
 
 **NEWS:** Après des mois de travail avec les différents groupes d'experts et scientifiques, la proposition du Dr Mina est validée par le gouvernement Bidens qui décide de la mettre en place dès le 20 Janvier !
 «[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par des milions de tests quotidiens. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
+**NEWS:** Courte vidéo sur les tests antigéniques rapides [The Case for LESS Sensitive COVID Tests](https://www.youtube.com/watch?v=IZ_8b_Ydsv0) publiée par [Aatish Bhatia](https://twitter.com/aatishb)
 
 > Merci de m'indiquer les erreurs ou le manque de détails pour permettre à ce document d'atteindre une qualité suffisante
 
 ## Qui est le Dr Michael Mina
 * Le Dr. Michael Mina, MD, PhD est; Assistant Professor of Epidemiology at Harvard T. H. Chan School of Public Health and a core member of the Center for Communicable Disease Dynamics (CCDD). He is additionally an Assistant Professor in Immunology and Infectious Diseases at HSPH and Associate Medical Director in Clinical Microbiology (molecular diagnostics) in the Department of Pathology at Brigham and Women’s Hospital, Harvard Medical School 
 * Il est aussi Docteur en phylosophie et ingénieur ([linkedin](https://www.linkedin.com/in/michael-mina-711918113/))
-* il a publié de nombreux articles, il propose de contrôler la propagation du virus d'une manière beaucoup plus efficace,
-   * [hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina](https://www.hsph.harvard.edu/news/features/coronavirus-covid-19-press-conference-with-michael-mina-12-11-20/)
+* il a publié de nombreux articles ou il propose de contrôler la propagation du virus par l'utilisation de tests rapides antigéniques,
+   * [scholar.google/wV4vncAAAAJ](https://scholar.google.com/citations?user=-wV4vncAAAAJ&hl=en)
 * [twitter/@michaelmina_lab](https://twitter.com/michaelmina_lab)
 
 ![Michael Mina](https://img.youtube.com/vi/PYd-Q_CYmKA/0.jpg)
@@ -93,4 +94,4 @@ En complément aux tests rapides, une application mobile très simple pourrait �
 * intégrer un mécanisme de bons d'achats que l'on pourrait utiliser dans les lieux qui souffrent de la baisse générale du chiffre d'affaire.
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
-<br/><sub>_(photo d'exemple, [se ne sont pas des test rapides](https://twitter.com/marctoronto/status/1341249009692848128))_</sub>
+<br/><sub>_(photo d'exemple, [ce ne sont pas des test rapides](https://twitter.com/marctoronto/status/1341249009692848128))_</sub>
