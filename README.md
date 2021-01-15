@@ -36,7 +36,7 @@ Le problème est aussi peut être lié à ce qu'on peut appeler une disruption d
 Aujourd'hui c'est le moment d'évaluer son travail pour l'appliquer en Suisse. Une solution antigénique testée à San-Francisco avec un résultat très positif,  [BinaxNOW](https://abbott.mediaroom.com/2020-12-16-Abbotts-BinaxNOW-COVID-19-Rapid-Test-Receives-FDA-Emergency-Use-Authorization-for-First-Virtually-Guided-At-Home-Rapid-Test-Using-eMeds-Digital-Health-Platform)
 
 
-## Les tests rapides, bon marchés et sans prescription aident à arrêter la propagation du COVID-19
+## Les tests rapides, bon marché et sans prescription aident à arrêter la propagation du COVID-19
 ![progagation](https://images.squarespace-cdn.com/content/v1/5fdab36b376e906e04015903/1609945481938-OZDMW4512W0RZ9G2PEEJ/ke17ZwdGBToddI8pDm48kEauHE8l6oOGTwQcWWNA6Mp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UUMPRaqORlgSNAbVJ4-vY3lLhys2HrQjGYgRIei59esVZDqXZYzu2fuaodM4POSZ4w/stop_the_spread_thin.png?format=450w)
 
 Les tests antigéniques rapides bon marché et sans prescription, augmentent massivement la détection des cas positifs. Ils permettent d'activer beaucoup plus rapidement l'isolement des personnes contagieuses, ce qui entraîne un effondrement de la chaîne de contagion et fait baisser mécaniquement le taux de reproduction R0. [La recherche a montré](https://www.nejm.org/doi/full/10.1056/NEJMp2025631) qu'une utilisation fréquente des tests rapides et bon marchés diminue significativement le nombre d'infections. 
