@@ -93,9 +93,9 @@ Tous les lieux considérés comme clusters potentiels; spectacles, restaurants, 
 En cas de test positif, il faut suivre la procédure officielle. Mais cette méthode permet au moins, à ceux et celles qui ont peur des répercussions, de rester anonymes et de protéger les autres en s'isolant les jours nécessaires. 
 
 ## 4. Faire une application mobile complémentaire
-En complément aux tests rapides, une application mobile très simple pourrait être créée pour améliorer le dépistage. Cette proposition ne fait pas partie de la proposition du Dr Mina, mais dans la mesure où les lieux considérés comme des clusters potentiels seraient ouverts au public, il pourrait y avoir un risque d'erreur qui devrait être corrigé. En effet, pourquoi ne pas utiliser une application mobile qui respecte l’anonymat des utilisateurs et qui permettrait de contacter tous les téléphones qui se sont trouvé dans un même lieu au même moment. Cette application pourrait régler plsuieurs problèmes:
+En complément aux tests rapides, une application mobile très simple pourrait être créée pour améliorer le dépistage. Cette proposition ne fait pas partie de la proposition du Dr Mina, mais dans la mesure où les lieux considérés comme des clusters potentiels seraient ouverts au public, il pourrait y avoir un risque d'erreur qui devrait être corrigé. En effet, pourquoi ne pas utiliser une application mobile qui respecte l’anonymat des utilisateurs et qui permettrait de contacter tous les téléphones qui se sont trouvés dans un même lieu au même moment. Cette application pourrait régler plsuieurs problèmes:
 * informer de manière anonyme les téléphones qui étaient dans un même lieu au même moment,
-* leur demander d'effectuer un test rapide antigénique depuis la maison,
+* demander aux personnes concernés d'effectuer un test rapide antigénique depuis la maison,
 * intégrer un mécanisme de bons d'achats (comme incitation a utiliser l'application - que l'on pourrait utiliser dans les lieux qui souffrent de la baisse générale du chiffre d'affaires.
 
 ![image](https://user-images.githubusercontent.com/1422935/103349621-9ed4d000-4a9d-11eb-8e11-6330a827a553.png)
