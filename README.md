@@ -48,6 +48,9 @@ Les tests antigéniques rapides ne détectent pas tous les cas positifs (~98%), 
 * **Les faux positifs** (détection sans qu'il y ait de virus); représentent 1% à 2% des tests, ce problème étant connu, la solution est prévue et intégrée avec certaines boites de tests. En effet, une boîte de 20 tests sensible a la protéine Spike contient toujours quelques tests en réserve qui ciblent la détection d'une autre protéine, ce qui fait chuter le taux d'erreur à 0.01% (le 1% du 1%)
 * **Les faux négatifs** (détection manquée du virus actif); Il arrive de manquer certaines personnes contagieuses, mais comme la plupart des interventions de santé publique, (cf. les masques ou la distanciation sociale), elles n'ont pas besoin d'être parfaites pour être utiles.
 
+> Problème des tests PCR qui détectes des fragments désactivés d'ARN viral bien après la période de contagion
+![PCR](https://pbs.twimg.com/media/ErgZt5JXIAImZQH?format=jpg&name=medium) [@FaheemYounus](https://twitter.com/FaheemYounus/status/1348856368141373440)
+
 ## Pourquoi ces tests ne sont pas disponibles
 Le Dr Mina explique que l'autorisation du type de tests rapides qui pourraient contrôler la propagation du virus s'est heurté à des obstacles réglementaires. Bien que certains tests rapides aient été approuvés, ils nécessitent encore une prescription, restent chers et ne sont généralement pas recommandés pour une utilisation asymptomatique.  Pourtant les entreprises pourraient produire des dizaines de millions de tests simples chaque jours, mais elles choisissent de ne pas le faire tant que la réglementation n'y est pas favorable.
 
