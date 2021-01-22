@@ -10,8 +10,7 @@
 **Version 0.6** <br/>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><sub>Mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Attribution 4.0 International</a>.</sub><br/>
 
-**NEWS:** Après des mois de travail avec les différents groupes d'experts et scientifiques, la proposition du Dr Mina est validée par le gouvernement Bidens qui décide de la mettre en place dès le 20 Janvier !
-«[...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par des milions de tests quotidiens. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
+**NEWS:** [...] Jan. 20. The plan calls for doubling the number of drive-through test sites and increasing testing capacity "by orders of magnitude"»  il faut traduire «by **orders** of magnifitude» par des milions de tests quotidiens. [[medtechdive]](https://www.medtechdive.com/news/bidens-covid-19-testing-plan-aims-to-scale-up-capacity-with-federal-led-ap/588599/)
 
 **NEWS:** Courte vidéo sur les tests antigéniques rapides [The Case for LESS Sensitive COVID Tests](https://www.youtube.com/watch?v=IZ_8b_Ydsv0) publiée par [Aatish Bhatia](https://twitter.com/aatishb)
 
